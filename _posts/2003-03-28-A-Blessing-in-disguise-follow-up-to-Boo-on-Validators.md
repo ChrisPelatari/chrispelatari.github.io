@@ -1,0 +1,9 @@
+---
+layout: post
+title: A Blessing in disguise? (follow-up to 'Boo! on Validators')
+---
+This is what I love about blogging here. I not only got to work out the problem in a different way than I would have alone, but I also got some great perspective from others before I go and make a decision. After I got to step away from the problem, I decided that my initial gripe may have a silver lining. Here's what I mean:
+
+First, let's put ourselves in the user's position. The user in this case will most likely be a Geophysicist that could talk you into a hole about Checkshot velocities, wavelets, etc, but has limited useage of the internet or web applications. I want the user to feel like she has complete control over the data that they can manipulate, but at the same time, I want that data to be valid. Personally, I think it would be counter intuitive to have a 'delete value' button by every textbox (and there are a lot of them), so if I were the user and I wanted to get rid of a previous value, would I automatically think, "Oh, gee, this started off as N/A - I better change it back."? No. No I'm not. I'm gonna highlight whatever I typed in before, hit backspace, and click the update button. That's what I'm used to, and I fear change.:S
+
+I guess my initial gripe was simply the fact that the Regular Expression Validator does not validate the Regex strictly. It validates the Regex and an empty string. Does this make sense to anyone else? If I want to validate something as (\d{1}), I'm looking for something b/t 0 and 9, not something b/t 0 and 9 OR oh yeah, an empty string will work, too. Thanks to everyone who helped me think this problem thru - I'm sure we all know what the real answer is, don't we? IT'S CLIPPY!!

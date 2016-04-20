@@ -1,0 +1,5 @@
+---
+layout: post
+title: WOOT! FIRST POST!
+---
+This is my first post on the blog...I hope that  I'll have something interesting to say. Well, I guess the first post should have a little to do with history. I work for a company that deals with the oil & gas exploration industry, you know - geophysicists and stuff like that. You cna find us on the web at [Velocity Databank, Inc.](http://velocitydatabank.com)  . Of course, the site is written completely in ASP.NET, with only one little widget that I had to use interop in for the sake of brevity - you know, time constraints and such. I'm 22, live in Houston, TX, and I've been programming in C# since the public beta release of .NET. Personally, I was more than happy to pick it up - but before then I was doing C++ and using the Java SDK a little bit, but not for as long as some of these other bloggers out here. Before that, I really liked web development - but just DHTML, no fancy server-side stuff 'til ASP.NET came along. Basically, I just didn't - and still don't - like the idea of coding in VB...that's right - I said it - No VB for me! HA! Well, not if I can help it anyway. :)

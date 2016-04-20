@@ -1,0 +1,6 @@
+---
+layout: post
+title: Singing the praises of the ASP.NET Version Switcher.
+---
+<p>I'm putting some of the finishing touches on my first winforms project, so I decided to try out some code on an <a href="http://www.velocitydatabank.com">app </a>that I wrote over a year ago today - I wanted it to run on .netfx 1.1 instead of 1.0, because it's the central login point for 2 different apps. After looking around at things and jogging that old memory, I got it working again, in both 1.0 and 1.1 using <a href="http://www.denisbauer.com/NETTools/ASPNETVersionSwitcher.aspx">Denis Bauer's ASP.NET version switcher</a>. Very nice. I know it's been said before, but this is an indespensible tool for anyone running side by side asp.net apps.</p>
+<p>My problem was this (if you're still reading): Since I have two different apps accessing the login page of this site from different hosts, the machineKey element of the *.config files need to be synched up for each site - either in web. or machine. - much like a server farm scenario. Apparently, tho, the newer fx and the older fx don't play nicely together when it comes to communication. Even tho the two apps had identical machineKey elements, authorization failed from site B to site A every time. All I had to do was change the versions that the apps were running on to be synched, and voila! Single Sign On is back. Whew</p>
