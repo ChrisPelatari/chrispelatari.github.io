@@ -4,7 +4,7 @@ title: ASP.NET MVC - Faking ControllerContext to test HttpContext.Current.User a
 date: 2010-06-22 12:57
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [aspnet,xunit,mvc]
 ---
 
 This was pretty straightforward but I didn't find it written up anywhere on
