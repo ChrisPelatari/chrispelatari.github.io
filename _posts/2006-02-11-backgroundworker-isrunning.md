@@ -10,8 +10,7 @@ categories: [csharp,winforms]
 This is a private boolean member of the new [BackgroundWorker](http://msdn2.microsoft.com/en-us/library/system.componentmodel.backgroundworker.aspx) class in .NET 2.0. If it were public, perhaps there would be less questions
 like [this one on the gotdotnet messageboards](http://www.gotdotnet.com/Community/MessageBoard/Thread.aspx?id=359244). I ran into a similar problem recently
 and decided that instead of catching an exception when the [BackgroundWorker](http://msdn2.microsoft.com/en-us/library/system.componentmodel.backgroundworker.aspx) is running, I would emulate the isRunning member myself.
-Since this is multithreaded by its nature, I decided to use a [lock
-object](http://www.mono-project.com/Coding_Guidelines#Locking_and_Threading) to control access to a static boolean member in the class that uses
+Since this is multithreaded by its nature, I decided to use a [lock object](http://www.mono-project.com/Coding_Guidelines#Locking_and_Threading) to control access to a static boolean member in the class that uses
 the [BackgroundWorker](http://msdn2.microsoft.com/en-us/library/system.componentmodel.backgroundworker.aspx) component.
 
 ```csharp
@@ -48,4 +47,4 @@ private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerComple
 
 the last thing when the work is completed: controlled access to the
 isRunningBgWorker member. Hope this helps somebody else out there who is having
-trouble with the BackgroundWorker](http://msdn2.microsoft.com/en-us/library/system.componentmodel.backgroundworker.aspx) component.
+trouble with the [BackgroundWorker](http://msdn2.microsoft.com/en-us/library/system.componentmodel.backgroundworker.aspx) component.
