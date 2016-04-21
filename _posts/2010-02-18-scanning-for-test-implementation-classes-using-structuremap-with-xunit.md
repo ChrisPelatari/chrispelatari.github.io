@@ -52,8 +52,8 @@ public static class Bootstrapper {
             s.TheCallingAssembly();
             s.WithDefaultConventions();
             s.With<TestScanner>();
-  				});
-  			});
+          });
+        });
       }
 }
 ```
