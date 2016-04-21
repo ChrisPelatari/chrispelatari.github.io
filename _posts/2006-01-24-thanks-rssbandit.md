@@ -20,6 +20,8 @@ the keyboard. There is only one method defined on the interface:
 ```csharp
 //CF: thanks, rssbandit :)
 public bool PreFilterMessage(ref Message m) {
+  ...
+}
 ```
 
 The code then looks for the WM_KEYDOWN or WM_SYSKEYDOWN messages and handles
