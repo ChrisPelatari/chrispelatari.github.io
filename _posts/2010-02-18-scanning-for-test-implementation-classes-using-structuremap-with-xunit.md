@@ -4,7 +4,7 @@ title: Scanning for Test implementation classes using StructureMap with xunit
 date: 2010-02-18 07:59
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [xunit,StructureMap]
 ---
 
 I have an [xunit test project](http://xunit.codeplex.com/) that is using hand-rolled stubs as concrete implementations of interfaces.
