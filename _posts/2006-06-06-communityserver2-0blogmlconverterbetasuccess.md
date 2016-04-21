@@ -194,6 +194,7 @@ Public Class Reader
                 Next
             End If
         End Sub
+
         Private Sub LoadTrackBacks(ByVal NewPost As Post, ByVal Post As BlogMLPost)
             If Post.Trackbacks.Count > 0 Then
                 For Each TrackBack As BlogMLTrackback In Post.Trackbacks
@@ -263,7 +264,4 @@ Public Class Reader
 ```
 
 I hacked up this file in WebMatrix and slapped it into the webroot of my new
-CommunityServer install. This way I was able to copy the content to a local
-
-install before pushing the final product out into the wild, and I didn't
-have to recompile any of CS to get it working. Merci, Keyvan!
+CommunityServer install. This way I was able to copy the content to a local install before pushing the final product out into the wild, and I didn't have to recompile any of CS to get it working. Merci, Keyvan!
