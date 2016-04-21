@@ -8,12 +8,14 @@ categories: [dotnet,SQLite]
 ---
 ```xml
 <system.data>
-        <DbProviderFactories>
-            <remove invariant="System.Data.SQLite"/>
-            <add name="SQLite Data Provider" invariant="System.Data.SQLite" description=".Net Framework Data Provider for SQLite"
-            type="System.Data.SQLite.SQLiteFactory, System.Data.SQLite" />
-        </DbProviderFactories>
-    </system.data>
+  <DbProviderFactories>
+      <remove invariant="System.Data.SQLite"/>
+      <add name="SQLite Data Provider"
+        invariant="System.Data.SQLite"
+        description=".Net Framework Data Provider for SQLite"
+        type="System.Data.SQLite.SQLiteFactory, System.Data.SQLite" />
+  </DbProviderFactories>
+</system.data>
 ```
 
 this happened to me using subsonic on an x64 machine. adding the x64 binary
