@@ -10,7 +10,7 @@ There are probably several ways to do this, here’s how I did.
 
 rakefile.rb:
 
-```
+```ruby
 DIR = File.dirname(__FILE__)
 desc "Starts Visual Studio with the project solution."
 task :vs do
