@@ -13,7 +13,7 @@ After a little bit of webernettin', I found a post by [Ward Bekker](http://dotne
 I want to have a special button that will display a rectangle of the selected color, so I created a class that derives from DataGridViewButtonCell. I want to be able to set the Color of the rectangle, and of course we have to paint the rectangle so we'll add a Color property of type Color (imagine that:) and override the Paint method.
 
 ```csharp
-public< ColorPickerCell : DataGridViewButtonCell{
+public ColorPickerCell : DataGridViewButtonCell{
   const float phi = 1.618f;
   private Color colorValue;
   public Color Color {
