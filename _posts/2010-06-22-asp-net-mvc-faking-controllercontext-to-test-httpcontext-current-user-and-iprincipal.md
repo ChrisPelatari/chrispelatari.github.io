@@ -9,7 +9,7 @@ categories: [aspnet,xunit,mvc]
 
 This was pretty straightforward but I didn't find it written up anywhere on
 the web so here goes. What follows is how I addressed testing IPrincipal in
-ASP.NET MVC using xunit.net](http://xunit.codeplex.com/)
+ASP.NET MVC using [xunit.net](http://xunit.codeplex.com/)
 
 Let's start with the test:
 
