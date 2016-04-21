@@ -16,7 +16,7 @@ when you cd to contrib and run msysgit-install.cmd from the cmd line, it says
 ```
 MsysGit installation directory not found.
 Try to give the directory name on the command line:
- msysgit-install "C:\Program Files (x86)\Git"
+msysgit-install "C:\Program Files (x86)\Git" 
 ```
 
 So now you have to find the install directory and try to add that to the msysgit-install cmd line. This time, in my case it was
