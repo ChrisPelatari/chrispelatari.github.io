@@ -37,7 +37,7 @@ public ColorPickerCell : DataGridViewButtonCell{
     DataGridViewPaintParts paintParts){
       //CDF: draw the button
       base.Paint(graphics, clipBounds, cellBounds, rowIndex, cellState, value,     formattedValue, errorText, cellStyle, advancedBorderStyle, paintParts);
-      //CDF: draw a purty rectangle over the button<
+      //CDF: draw a purty rectangle over the button
       using(Pen darkPen = new Pen(SystemColors.ControlDark){
         Rectangle rc = new Rectangle(cellBounds.X + 8, cellBounds.Y + 3, 
         cellBounds.Width - (int)(cellBounds.Width * phi / 8), 
