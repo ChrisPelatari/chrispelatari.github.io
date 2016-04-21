@@ -2,7 +2,7 @@
 layout: post
 title: "Running 1Password on Debian Linux"
 description: "How I got 1Password for Windows running on Debian Linux"
-category: geek
+categories: [geek,1Password,Windows,Linux]
 tags: [geek]
 ---
 
