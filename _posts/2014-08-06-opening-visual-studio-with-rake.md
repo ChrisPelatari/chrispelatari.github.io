@@ -14,7 +14,8 @@ rakefile.rb:
 DIR = File.dirname(__FILE__)
 desc "Starts Visual Studio with the project solution."
 task :vs do
- sln = "#{DIR}/src/project.sln".gsub! '/','\\'<br>&nbsp; system( "start #{sln}" )
+ sln = "#{DIR}/src/project.sln".gsub! '/','\\'
+ system( "start #{sln}" )
 end
 ```
 
