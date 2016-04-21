@@ -17,5 +17,9 @@ url: "http://chris.pelatari.com" # the base hostname & protocol for your site
 twitter_username: ChrisPelatari
 github_username:  ChrisPelatari
 
+post:
+  template: _layouts/post.md
+  extension: md
+
 # Build settings
 markdown: kramdown
