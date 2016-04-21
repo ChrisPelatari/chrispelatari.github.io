@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New ink: Japanese devil mask!
+title: New ink&#58; Japanese devil mask!
 date: 2009-04-23 02:29
 author: chrispelatari
 comments: true

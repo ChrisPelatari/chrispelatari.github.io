@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RE: RSS Bandit [Nightcrawler Edition] Alpha Progress Report
+title: RE&#58; RSS Bandit [Nightcrawler Edition] Alpha Progress Report
 date: 2005-09-07 22:22
 author: chrispelatari
 comments: true

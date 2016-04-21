@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NetVibe: listen for network changes and execute a script.
+title: NetVibe&#58; listen for network changes and execute a script.
 date: 2005-12-12 23:10
 author: chrispelatari
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All In Your Head: DJ Fred Castillo
+title: All In Your Head&#58; DJ Fred Castillo
 date: 2006-01-30 21:14
 author: chrispelatari
 comments: true
