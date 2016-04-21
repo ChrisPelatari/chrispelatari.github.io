@@ -22,7 +22,7 @@ weblog group. Then I created a new group and weblog and used the application key
 assigned to the new blog to import my posts. Here is the code I used to import a
 blogML file into a fresh copy of Community Server 2.0
 
-```aspx-vb
+```ASP
 <%@ Page Language = "VB" %>
 <%@ Import Namespace = "System.Collections" %>
 <%@ Import Namespace = "System.IO" %>
