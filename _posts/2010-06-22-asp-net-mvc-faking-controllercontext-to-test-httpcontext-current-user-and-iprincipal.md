@@ -13,7 +13,7 @@ ASP.NET MVC using xunit.net](http://xunit.codeplex.com/)
 
 Let's start with the test:
 
-```C#
+```csharp
 [Fact]
 public void changes_password() {
   //arrange
@@ -37,7 +37,7 @@ then.
 For this project, I'm using simple hand-rolled stubs. Here is the code for
 TestControllerContext:
 
-```C#
+```csharp
 public class TestControllerContext : ControllerContext {
   public override System.Web.HttpContextBase HttpContext {
     get {
@@ -53,7 +53,7 @@ public class TestControllerContext : ControllerContext {
 instead of returning the runtime HttpContext (which doesn't exist, remember)
 I'm supplying another hand-rolled stub. Here is that code:
 
-```C#
+```csharp
 public class TestHttpContext : HttpContextBase {
   public override System.Security.Principal.IPrincipal User {
     get {
@@ -70,7 +70,7 @@ again, same principal :) because I'm concerned about calling into User for
 the Identity.Name property, I return another stub that implements IPrincipal.
 Here is that code:
 
-```C#
+```csharp
 public class TestPrincipal : IPrincipal{
   public IIdentity Identity {
     get { return new GenericIdentity("you@me.com"); }
@@ -87,7 +87,7 @@ the test code above asserts the test passes because if an error occurred, I
 would redisplay the form with errors shown using the View() method. A redirect
 says that the change password op worked:
 
-```C#
+```csharp
 if (MembershipService.ChangePassword(User.Identity.Name, currentPassword, newPassword))
   return RedirectToAction("ChangePasswordSuccess");
 ```
