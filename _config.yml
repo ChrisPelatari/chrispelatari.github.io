@@ -18,7 +18,7 @@ twitter_username: ChrisPelatari
 github_username:  ChrisPelatari
 
 post:
-  template: _layouts/post.md
+  template: _layouts/post_template.md
   extension: md
 
 # Build settings
