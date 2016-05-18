@@ -5,4 +5,4 @@ author: chrispelatari
 categories: [personal]
 ---
 
-#fuck yeah bro. 
+# fuck yeah bro. 
