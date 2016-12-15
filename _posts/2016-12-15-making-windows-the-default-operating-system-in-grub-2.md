@@ -35,4 +35,4 @@ GRUB_DEFAULT=2
 
 After a sudo update-grub, and another sudo reboot, without touching the grub menu, I sat back and watched as Windows was loaded by default from grub.
 
-Success!
+Success! :metal:
