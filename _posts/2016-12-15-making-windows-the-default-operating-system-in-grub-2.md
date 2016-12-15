@@ -33,6 +33,6 @@ So I decided to use the zero-based index of the OS this time...because the defau
 GRUB_DEFAULT=2
 ```
 
-After another sudo reboot, without touching the grub menu, I sat back and watched as Windows was loaded by default from grub.
+After a sudo update-grub, and another sudo reboot, without touching the grub menu, I sat back and watched as Windows was loaded by default from grub.
 
 Success!
