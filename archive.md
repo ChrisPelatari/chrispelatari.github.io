@@ -1,7 +1,6 @@
 ---
-title: "Archive"
 layout: page
-author: chrispelatari
+title: Archive
 permalink: /archive/
 ---
 
