@@ -128,7 +128,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  json
 
 BUNDLED WITH
    1.15.3
