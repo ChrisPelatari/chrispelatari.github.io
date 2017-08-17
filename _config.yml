@@ -21,6 +21,10 @@ post:
   template: _layouts/post_template.md
   extension: md
 
+page:
+  template: _layouts/post_template.md
+  extension: md
+
 editor: atom
 
 # Build settings
