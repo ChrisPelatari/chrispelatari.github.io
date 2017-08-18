@@ -29,7 +29,5 @@ page:
 
 editor: atom
 
-plugins_dir: [github-pages]
-
 # Build settings
 markdown: kramdown
