@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm about respect.
+I'm a God damn gentleman.
