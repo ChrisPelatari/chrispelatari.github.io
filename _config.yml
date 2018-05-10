@@ -31,3 +31,4 @@ editor: atom
 
 # Build settings
 markdown: kramdown
+theme: carte-noir
