@@ -31,4 +31,4 @@ editor: atom
 
 # Build settings
 markdown: kramdown
-theme: carte-noir
+theme: jekyll-theme-hacker
