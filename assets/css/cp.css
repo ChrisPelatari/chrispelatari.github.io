@@ -1,0 +1,12 @@
+body {
+  font-family: Inconsolata, Consolas, "Courier New", monospace;
+  background-color: #111;
+}
+
+.page-header {
+  color: #111;
+}
+
+.page-header a {
+  color: #111
+}
