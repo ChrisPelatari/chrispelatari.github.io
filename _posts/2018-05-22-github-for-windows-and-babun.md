@@ -9,7 +9,9 @@ If you are on windows 10, you can simply use a linux subsystem. That ain’t wha
 
 Setting up a custom shell in g4w is pretty straightforward, just open up options... and  add the following to the Custom selection for Default Shell:
 
-```C:\Users\<username>\.babun\babun.bat
+```
+C:\Users\<username>\.babun\babun.bat
+```
 
 That's it!
 
