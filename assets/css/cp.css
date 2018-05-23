@@ -1,6 +1,7 @@
 body {
-  font-family: Inconsolata, Consolas, "Courier New", monospace;
+  font-family: Inconsolata;
   background-color: #111;
+  color: #159957;
 }
 
 .page-header {
