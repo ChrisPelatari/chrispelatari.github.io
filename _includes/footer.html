@@ -1,39 +1,45 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
+<div class="jumbotron bg-dark">
+  <div class="container">
+    <div class="row">
+      <h2 class="col-md-6">{{ site.title }}</h2>
+      <p class="col-md-6">{{ site.description }}</p>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <ul class="list-unstyled">
           <li><img src="https://gravatar.com/avatar/3bfae0de8cbe8bed37280958babd4aeb"/></li>
+          <li>{% include hacker.html %}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
+      <div class="col-md-4">
+        <ul class="list-unstyled">
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
-
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-          <li>{% include hacker.html %}</li>
+          <li>
+            <div class="col-sm">
+              <a href="{{ site.url }}/feed.xml">
+              <i class="fas fa-rss-square"></i> RSS</a>
+            </div>
+          </li>
         </ul>
       </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+      <div class="col-md-4">
+        <ul class="list-unstyled">
+          <li>&copy; {{ site.time | date: "%Y" }} <a href="mailto:{{ site.email }}">{{ site.title }}</a></li>
+          <li>May I never be complete.</li>
+          <li>May I never be content.</li>
+          <li>May I never be perfect.</li>
+        </ul>        
       </div>
     </div>
-
   </div>
-
-</footer>
+</div>
