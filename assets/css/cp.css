@@ -11,3 +11,7 @@ body {
 .page-header a {
   color: #111
 }
+
+.site-footer {
+  border: 0px !important;
+}
