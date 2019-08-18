@@ -1,18 +1,18 @@
 <div class="jumbotron bg-dark">
   <div class="container">
     <div class="row">
-      <h2 class="col-md-6">{{ site.title }}</h2>
-      <p class="col-md-6">{{ site.description }}</p>
+      <h2 class="col-sm">{{ site.title }}</h2>
+      <p class="col-sm">{{ site.description }}</p>
     </div>
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-sm">
         <ul class="list-unstyled">
           <li><img src="https://gravatar.com/avatar/3bfae0de8cbe8bed37280958babd4aeb"/></li>
           <li>{% include hacker.html %}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
-      <div class="col-md-4">
+      <div class="col-sm">
         <ul class="list-unstyled">
           {% if site.github_username %}
           <li>
@@ -32,7 +32,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-4">
+      <div class="col-sm">
         <ul class="list-unstyled">
           <li>&copy; {{ site.time | date: "%Y" }} <a href="https://chris.pelatari.com">{{ site.title }}</a></li>
           <li>May I never be complete.</li>
