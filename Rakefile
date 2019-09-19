@@ -29,10 +29,17 @@ def execute(command)
   system "#{command}"
 end
 
-# Chech the title
-def check_title(title)
+# use the date as the title
+def date_title(title)
   if title.nil? or title.empty?
-    raise "Please add a title to your file."
+    "#{DATE} #{TIME}"
+  end
+end
+
+# Check the title
+def page_title(title)
+  if title.nil? or title.empty?
+    raise "Pages must have a title."
   end
 end
 
@@ -86,11 +93,11 @@ end
 # rake post["Title"]
 desc "Create a post in _posts"
 task :post, :title do |t, args|
-  title = args[:title]
+  title = args[:title] || date_title(title)
   template = CONFIG["post"]["template"]
   extension = CONFIG["post"]["extension"]
   editor = CONFIG["editor"]
-  check_title(title)
+  
   filename = "#{DATE}-#{transform_to_slug(title, extension)}"
   content = read_file(template)
   create_file(POSTS, filename, content, title, editor)
@@ -99,11 +106,11 @@ end
 # rake draft["Title"]
 desc "Create a post in _drafts"
 task :draft, :title do |t, args|
-  title = args[:title]
+  title = args[:title] || date_title(title)
   template = CONFIG["post"]["template"]
   extension = CONFIG["post"]["extension"]
   editor = CONFIG["editor"]
-  check_title(title)
+  
   filename = transform_to_slug(title, extension)
   content = read_file(template)
   create_file(DRAFTS, filename, content, title, editor)
@@ -117,6 +124,7 @@ task :publish do
   files.each_with_index do |file, index|
     puts "#{index + 1}: #{file}".sub("#{DRAFTS}/", "")
   end
+
   print "> "
   number = $stdin.gets
   if number =~ /\D/
@@ -132,17 +140,20 @@ end
 # rake page["Title","Path/to/folder"]
 desc "Create a page (optional filepath)"
 task :page, :title, :path do |t, args|
-  title = args[:title]
+  title = args[:title]  
   template = CONFIG["page"]["template"]
   extension = CONFIG["page"]["extension"]
   editor = CONFIG["editor"]
+
+  page_title(title)
   directory = args[:path]
+
   if directory.nil? or directory.empty?
     directory = "./"
   else
     FileUtils.mkdir_p("#{directory}")
   end
-  check_title(title)
+  
   filename = transform_to_slug(title, extension)
   content = read_file(template)
   create_file(directory, filename, content, title, editor)
