@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header {
+  background: url('/assets/images/header.png') no-repeat;
+}
