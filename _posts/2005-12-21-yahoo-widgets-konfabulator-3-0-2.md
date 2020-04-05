@@ -4,7 +4,7 @@ title: Yahoo! Widgets (Konfabulator) 3.0.2
 date: 2005-12-21 08:00
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>I wanted to install the newest version of Konfabulator to one of my 

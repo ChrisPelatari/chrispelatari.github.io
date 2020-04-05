@@ -4,7 +4,7 @@ title: Quick shoutout to RegexLib.com
 date: 2006-03-13 10:42
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>I've got weak regex skillz. I'll admit it. </p>

@@ -4,7 +4,7 @@ title: Whip it Real Hard
 date: 2006-07-20 12:52
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 <div>
 

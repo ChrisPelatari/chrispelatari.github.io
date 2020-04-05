@@ -4,7 +4,7 @@ title: NetVibe&#58; listen for network changes and execute a script.
 date: 2005-12-12 23:10
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 <p>A few people asked for the source code/a download for the little widget I<br /> whipped up on Friday, so I spent this morning adding a little bit of<br /> persistence. The original code for switching my networks is still in there (and<br /> still works on my machine if I change the code to point there) but I made it<br /> more general and also used it as an excuse to explore the Settings API as well<br /> as use a couple of neat features of VS 2005. (If you don't care about any of<br /> that stuff and just want to see if you can build the project and make some use<br /> out of it, it can be found <a href="http://projectdistributor.net/Releases/Release.aspx?releaseId=289">here on<br /> projectdistributor</a>. )</p><p>So the settings goop in VS 2005 is pretty neat, but there's a limited subset<br /> (it seems) that you can specify as types in the designer. I wanted to use a<br /> Domain Object, tho - so, no designer love for me. I ended up making a simple<br /> string setting just to see what code it generated for UserScopedSetting<br /> properties. I ended up with this:</p><pre>[global::System.Configuration.UserScopedSetting]
 <span style="color:blue;">public</span> ConfigItem Disconnected {

@@ -4,7 +4,7 @@ title: Gaffling that ribbon style
 date: 2006-07-08 01:36
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 <a href="http://chrispelatari.files.wordpress.com/2006/07/thievn.png"><img class="alignnone size-full wp-image-1148" alt="thievn" src="http://chrispelatari.files.wordpress.com/2006/07/thievn.png" width="318" height="258" /></a>
 

@@ -4,7 +4,7 @@ title: Saving an embedded resource xml file at runtime in C#
 date: 2005-07-18 19:37
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>I couldn't find a cut &amp; dry solution to this (probably b/c it's too 

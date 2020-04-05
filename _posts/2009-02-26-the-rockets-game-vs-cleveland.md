@@ -4,7 +4,7 @@ title: at the Rockets game vs Cleveland
 date: 2009-02-26 19:25
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <div style="text-align:left;padding:3px;">

@@ -4,7 +4,7 @@ title: Houstonians are starting to panic.
 date: 2005-09-21 21:51
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 I just got back from the gas station to get some sodas before everything runs
 out, and this is what I saw:

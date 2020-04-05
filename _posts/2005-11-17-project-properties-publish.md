@@ -4,7 +4,7 @@ title: Project -> Properties -> Publish
 date: 2005-11-17 21:16
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>-&gt; Wow.</p>

@@ -4,7 +4,7 @@ title: Got My ASP.NET Podcast Shirt
 date: 2006-02-15 19:07
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 I got my <a href="http://aspnetpodcast.com">ASP.NET Podcast </a>shirt, and
 there's a <em>lot</em> of Wally to be had it seems...

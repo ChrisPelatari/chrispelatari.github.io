@@ -4,7 +4,7 @@ title: xml-rpc.net and BOM
 date: 2005-11-09 08:13
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>I'm using <a href="http://xml-rpc.net">xml-rpc.net</a> as the library 

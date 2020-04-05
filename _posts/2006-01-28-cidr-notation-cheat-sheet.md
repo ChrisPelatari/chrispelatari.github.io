@@ -4,7 +4,7 @@ title: CIDR Notation Cheat Sheet
 date: 2006-01-28 00:13
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <blockquote>

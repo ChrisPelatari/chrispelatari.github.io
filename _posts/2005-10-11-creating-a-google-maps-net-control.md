@@ -4,7 +4,7 @@ title: Creating a Google Maps .NET Control
 date: 2005-10-11 20:12
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>Choice Quote:</p>

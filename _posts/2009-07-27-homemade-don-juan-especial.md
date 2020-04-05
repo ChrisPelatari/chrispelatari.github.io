@@ -4,7 +4,7 @@ title: Homemade Don Juan Especial!
 date: 2009-07-27 16:18
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 <div style="padding:3px;text-align:left;"> <a href="http://www.flickr.com/photos/blue_fenix/3762764451/" title="photo sharing"><img src="http://farm3.static.flickr.com/2508/3762764451_fdd1649547.jpg" style="border:2px solid rgb(0,0,0);" alt="" /></a> <br />
 <span style="font-size:.8em;margin-top:0;"><a href="http://www.flickr.com/photos/blue_fenix/3762764451/">Homemade Don Juan Especial!</a>, originally uploaded by <a href="http://www.flickr.com/people/blue_fenix/">blue_fenix</a>.</span> </div>

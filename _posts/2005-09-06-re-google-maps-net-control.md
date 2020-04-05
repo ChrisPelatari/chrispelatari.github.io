@@ -4,7 +4,7 @@ title: RE&#58; Google maps .NET control
 date: 2005-09-06 19:35
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <blockquote>

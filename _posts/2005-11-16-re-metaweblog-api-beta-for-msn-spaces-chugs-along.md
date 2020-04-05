@@ -4,7 +4,7 @@ title: RE&#58; MetaWeblog API beta for MSN Spaces chugs along
 date: 2005-11-16 06:02
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <blockquote>

@@ -4,7 +4,7 @@ title: PostXING v2? Where's the goods?
 date: 2005-09-09 05:52
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 Ah, the joys of writing open source software :/
 

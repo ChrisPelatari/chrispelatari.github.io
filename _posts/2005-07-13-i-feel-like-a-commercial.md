@@ -4,7 +4,7 @@ title: I feel like a commercial
 date: 2005-07-13 23:01
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 but I did switch to geico
 and I'm going to save a rediculous amount from my current insurance provider. To

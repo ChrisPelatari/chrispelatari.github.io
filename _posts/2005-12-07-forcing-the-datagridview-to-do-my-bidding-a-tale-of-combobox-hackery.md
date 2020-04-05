@@ -4,7 +4,7 @@ title: Forcing the DataGridView to do my bidding - a tale of ComboBox hackery
 date: 2005-12-07 20:38
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p><strong>*sigh* </strong>Winforms team, winforms team, when will you start 

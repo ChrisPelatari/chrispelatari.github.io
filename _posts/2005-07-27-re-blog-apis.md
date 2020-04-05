@@ -4,7 +4,7 @@ title: RE&#58; Blog APIs
 date: 2005-07-27 23:38
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>Darren's <a href="http://markitup.com/Posts/Post.aspx?postId=823c0159-e081-46a7-ba96-b212aed5df26">looking

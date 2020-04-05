@@ -4,7 +4,7 @@ title: ToolStripColorButton&#58; a WinForms 2.0 Control
 date: 2005-11-07 18:27
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 Disclaimer: the code for showing the color menu is totally ripped off of a <a href="http://codeproject.com/cs/miscctrl/ColorButton.asp">CodeProject
 article</a>. I just took the ColorPanel part and parented it with a

@@ -4,7 +4,7 @@ title: New ink&#58; hacker emblem
 date: 2009-04-09 21:09
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <div style="text-align:left;padding:3px;">

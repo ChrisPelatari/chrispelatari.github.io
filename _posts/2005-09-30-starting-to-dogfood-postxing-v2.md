@@ -4,7 +4,7 @@ title: Starting to dogfood PostXING v2.
 date: 2005-09-30 05:47
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 I figured that 27 test posts were enough to actually publish one.
 

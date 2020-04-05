@@ -4,7 +4,7 @@ title: Hazaa! 0 unread feeds in my subscriptions
 date: 2005-09-07 23:31
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>I took a week off from reading blogs last week (as is evidenced by my 

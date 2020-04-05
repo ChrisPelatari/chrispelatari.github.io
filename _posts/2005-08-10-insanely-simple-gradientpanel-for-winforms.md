@@ -4,7 +4,7 @@ title: Insanely simple GradientPanel for WinForms
 date: 2005-08-10 21:01
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>This has probably been done a hundred times already, but I couldn't find one 

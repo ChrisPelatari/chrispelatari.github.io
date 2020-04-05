@@ -4,7 +4,7 @@ title: PostXING plugin&#58; TechnoratiTagger
 date: 2006-03-01 01:21
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>Holy Schnikeys!</p>

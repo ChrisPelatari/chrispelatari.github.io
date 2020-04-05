@@ -4,7 +4,7 @@ title: PostXING conversation with Peter Provost continues...
 date: 2005-12-07 21:07
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p><a href="http://www.peterprovost.org/">Peter </a>gives me some <a href="http://www.chrisfrazier.net/blog/archive/2005/11/14/1413.aspx#1429">awesome 

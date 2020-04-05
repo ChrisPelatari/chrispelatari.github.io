@@ -4,7 +4,7 @@ title: RE&#58; www.windowsforms.net is dead
 date: 2005-09-07 21:58
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <blockquote>

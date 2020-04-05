@@ -4,7 +4,7 @@ title: RE&#58; 8 Steps to Better Windows Applications
 date: 2005-11-17 07:30
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p dir="ltr" style="margin-right:0;">In an attempt to work on steps 7 and 8

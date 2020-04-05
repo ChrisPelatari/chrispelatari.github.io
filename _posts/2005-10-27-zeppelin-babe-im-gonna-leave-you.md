@@ -4,7 +4,7 @@ title: Zeppelin&#58; Babe I'm gonna leave you
 date: 2005-10-27 06:12
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>I know I've figured out a fun song when my left hand hurts after

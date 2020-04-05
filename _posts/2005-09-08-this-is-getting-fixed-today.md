@@ -4,7 +4,7 @@ title: This is getting fixed. Today.
 date: 2005-09-08 06:02
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p><!--StartFragment --> I noticed that I haven't gotten any comments on my 

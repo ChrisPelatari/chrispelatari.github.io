@@ -4,7 +4,7 @@ title: System.Net.NetworkInformation
 date: 2005-12-10 07:59
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 This is pretty cool:
 <pre>System.Net.NetworkInformation.NetworkChange.NetworkAddressChanged += 

@@ -4,7 +4,7 @@ title: Sunburst Font & Color scheme for Visual Studio 2010
 date: 2010-04-20 08:16
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>Here is a clone of the TextMate theme "Sunburst" for Visual Studio 2010: <a href="http://bluefenix.net/etc/blue_fenix_sunburst_lite.zip">http://bluefenix.net/etc/blue_fenix_sunburst_lite.zip</a></p>

@@ -4,7 +4,7 @@ title: Woe unto the COM-referencing VS2005 Winforms Designer
 date: 2005-11-10 22:06
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 <b><font face="Arial" size="2">One or more errors encountered 
 while loading the designer. The errors are listed below. Some errors can be 

@@ -4,7 +4,7 @@ title: the yield statement - not so mysterious after all?
 date: 2006-04-14 15:13
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <blockquote>

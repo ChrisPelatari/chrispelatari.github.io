@@ -4,7 +4,7 @@ title: Ethan's got holiday spirit!
 date: 2008-12-20 20:18
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <div style="text-align:left;padding:3px;">

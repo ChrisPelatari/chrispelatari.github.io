@@ -4,7 +4,7 @@ title: Kevin Devine @ Mohawk's #sxsw
 date: 2009-03-18 12:22
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <div style="text-align:left;padding:3px;">

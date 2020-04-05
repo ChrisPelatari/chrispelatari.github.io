@@ -4,7 +4,7 @@ title: Jim Ross Dies
 date: 2005-11-18 19:56
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 Our prayers are with you, Jim. I only
 met Jim in real life one time, and he gave me a ride to my hotel on my first

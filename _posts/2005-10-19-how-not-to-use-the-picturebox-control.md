@@ -4,7 +4,7 @@ title: How not to use the PictureBox control.
 date: 2005-10-19 21:04
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>I was having this problem in an application that I've been working on where I 

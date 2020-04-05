@@ -4,7 +4,7 @@ title: All In Your Head&#58; DJ Fred Castillo
 date: 2006-01-30 21:14
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 <a href="http://chrispelatari.files.wordpress.com/2006/01/06-05-04_1755.jpg"><img class="alignnone size-full wp-image-1165" alt="06-05-04_1755" src="http://chrispelatari.files.wordpress.com/2006/01/06-05-04_1755.jpg" width="593" height="444" /></a>
 

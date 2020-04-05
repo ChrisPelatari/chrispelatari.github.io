@@ -4,7 +4,7 @@ title: We'll miss you, Mr. Holmquist.
 date: 2006-06-13 16:58
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 <a href="http://chrispelatari.files.wordpress.com/2006/06/mrholmquist.jpg"><img class="alignnone size-full wp-image-1150" alt="MrHolmquist" src="http://chrispelatari.files.wordpress.com/2006/06/mrholmquist.jpg" width="400" height="300" /></a>
 

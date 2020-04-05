@@ -2,5 +2,5 @@
 title:
 layout: post
 author: chrispelatari
-categories: [Uncategorized]
+categories: [professional_geek]
 ---

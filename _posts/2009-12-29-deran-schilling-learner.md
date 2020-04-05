@@ -4,7 +4,7 @@ title: Deran Schilling, Learner
 date: 2009-12-29 17:41
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>Check this: "<a href="http://feedproxy.google.com/~r/derans/~3/AJiK02ER6Ws/automapper-aspnet-mvc.html">AutoMapper 

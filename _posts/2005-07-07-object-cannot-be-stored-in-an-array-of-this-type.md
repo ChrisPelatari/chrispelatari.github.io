@@ -4,7 +4,7 @@ title: Object cannot be stored in an array of this type.
 date: 2005-07-07 05:45
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 This was the error that was biting me on PostXING v2 for almost a week (I
 usually only get insomnia hours to debug. That can be frustrating.)

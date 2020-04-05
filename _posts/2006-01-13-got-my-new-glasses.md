@@ -4,7 +4,7 @@ title: Got my new glasses
 date: 2006-01-13 23:28
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>Strictly filed under "As if you cared".</p>

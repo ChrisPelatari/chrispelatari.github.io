@@ -4,7 +4,7 @@ title: Subversion on Windows
 date: 2006-02-14 18:08
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>I've been wanting to setup <a href="http://subversion.tigris.org">subversion</a> for <a href="http://postxing.net">PostXING</a> for a while so I can have more 

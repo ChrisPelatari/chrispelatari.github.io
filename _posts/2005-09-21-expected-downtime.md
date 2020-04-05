@@ -4,7 +4,7 @@ title: Expected downtime
 date: 2005-09-21 15:40
 author: chrispelatari
 comments: true
-categories: [Uncategorized]
+categories: [professional_geek]
 ---
 
 <p>Just to let both of you know - I'm expecting some downtime this weekend for 
