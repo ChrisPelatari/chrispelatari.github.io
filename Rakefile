@@ -197,6 +197,11 @@ task :preview do
   Rake::Task[:watch].invoke
 end
 
+desc "Serve jekyll"
+task :s do
+  sh 'bundle exec jekyll s'
+end
+
 # rake deploy["Commit message"]
 desc "Deploy the site to a remote git repo"
 task :deploy, :message do |t, args|
