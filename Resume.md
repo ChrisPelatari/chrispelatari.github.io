@@ -1,0 +1,79 @@
+---
+title: "Resume"
+layout: resume
+author: chrispelatari
+categories: [professional_geek]
+---
+
+<h1 class="text-center border-bottom">Chris Pelatari</h1>
+<h3 class="text-center">Senior Web Developer</h3>
+
+<div class="row">
+  <div class="col-4 border-right">
+    <h3 class="text-right">CONTACT</h3>
+    <ul class="list-unstyled text-right">
+      <li>chris@pelatari.com <i class="fas fa-envelope"></i></li>
+      <li>(281) 684-5688 <i class="fas fa-phone"></i></li>
+      <li>Houston, TX <i class="fas fa-map-marker-alt"></i></li>
+      <li><a href="https://github.com/ChrisPelatari">GitHub <i class="fab fa-github"></i></a></li>
+      <li><a href="https://bluefenix.net">bluefenix.net <i class="fas fa-link"></i></a></li>
+    </ul>
+    <h3 class="text-right">CAREER OBJECTIVE</h3>
+    <p>Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. Looking forward to joining a team that can benefit from and help expand my knowledge.</p>
+    <h3 class="text-right">RECOGNITION</h3>
+    <ul class="text-right">
+      <li>Microsoft MVP ASP.NET</li>
+      <li>ASPInsider <a href="aspinsiders.com">aspinsiders.com</a></li>
+      <ul>
+        <li>ASPInsiders were consulted to collaborate and contribute to the original ASP.NET MVC framework.</li>
+      </ul>
+    </ul>
+    <h3 class="text-right">SKILLS</h3>
+    <ul class="text-right">
+      <li>C# (ASP.NET MVC, Windows Forms)</li>
+      <li>Javascript (Vue.js, NodeJS, jQuery, ES6)</li>
+      <li>Bootstrap</li>
+      <li>xUnit</li>
+      <li>NuGet</li>
+      <li>MS SQL</li>
+      <li>git</li>
+      <li>AWS</li>
+      <li>Ruby</li>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>coffeescript</li>
+      <li>bower, npm, grunt</li>
+    </ul>
+  </div>
+  <div class="col">
+    <h3>WORK EXPERIENCE</h3>
+    <blockquote class="blockquote">Velocity Databank, Inc.
+      <figcaption class="blockquote-footer">2001 - Present</figcaption>
+      <figcaption class="blockquote-footer">.NET Solutions Developer</figcaption>
+    </blockquote>
+    <h2>Full Stack .NET Web Developer</h2>
+    <ul>
+      <li>Designed, developed, released, and maintained full stack ASP.NET MVC applications backed by MS SQL</li>
+      <li>Converted legacy WebForms based applications to the ASP.NET MVC framework</li>
+      <li>Familiar with Razor and custom view engine implementations</li>
+      <li>VelSys - online Checkshot Velocity database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil</li>
+      <li>Transitioned from an in-house web server to continuous integrated AWS Cloud based hosting</li>
+    </ul>
+    <h2>Windows Desktop Developer</h2>
+    <ul>
+      <li>Developed several internal and external Windows Desktop applications for the Oil & Gas Exploration industry</li>
+      <li>VelComp - Checkshot Velocity interpretation and calculation platform</li>
+      <li>VDBx - 3D Velocity database extraction program</li>
+      <li>Velociraptor - Internal 3D Velocity Volume interpretation and generation platform</li>
+    </ul>
+    <h2>MS SQL Database Administrator</h2>
+    <ul>
+      <li>Fully indexed and properly normalized database solutions</li>
+      <li>Knowledge and execution of advanced SQL queries</li>
+      <li>Troubleshooting backup, restore, and indexing issues</li>
+      <li>Server and cloud based experience</li>
+    </ul>
+    <hr>
+    <h3>OPEN SOURCE</h3>
+    <p>Developed and released an open-source desktop blog posting client in 2007 called PostXING. Stopped development when Microsoft Live Writer was released.</p>
+</div>
