@@ -19,7 +19,7 @@ categories: [professional_geek]
       <li><a href="https://bluefenix.net">bluefenix.net <i class="fas fa-link"></i></a></li>
     </ul>
     <h3 class="text-right">CAREER OBJECTIVE</h3>
-    <p>Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. Looking forward to joining a team that can benefit from and help expand my knowledge.</p>
+    <p>Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. I believe in Test First Development, Continuous Delivery, Distributed Version Control, and clean, concise, simple self-documenting code.</p>
     <h3 class="text-right">RECOGNITION</h3>
     <ul class="text-right">
       <li>Microsoft MVP ASP.NET</li>
