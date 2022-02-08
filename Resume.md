@@ -27,7 +27,7 @@ categories: [professional_geek]
       <li class="list-group-item list-group-item-dark">Microsoft MVP ASP.NET</li>
       <li class="list-group-item list-group-item-dark">ASPInsider <a href="aspinsiders.com">aspinsiders.com</a></li>
       <ul class="list-unstyled">
-        <li>ASPInsiders were consulted to collaborate and contribute to the original ASP.NET MVC framework.</li>
+        <li>ASPInsiders were consulted by Microsoft to collaborate and contribute to the original ASP.NET MVC framework.</li>
       </ul>
     </ul>
     <h3 class="text-right">SKILLS</h3>
