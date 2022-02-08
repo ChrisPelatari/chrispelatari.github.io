@@ -23,10 +23,10 @@ categories: [professional_geek]
     <h3 class="text-right">CAREER OBJECTIVE</h3>
     <p>Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. I believe in Test First Development, Continuous Delivery, Distributed Version Control, and clean, concise, simple self-documenting code.</p>
     <h3 class="text-right">RECOGNITION</h3>
-    <ul class="text-right">
-      <li>Microsoft MVP ASP.NET</li>
-      <li>ASPInsider <a href="aspinsiders.com">aspinsiders.com</a></li>
-      <ul>
+    <ul class="text-right list-group list-group-flush">
+      <li class="list-group-item list-group-item-dark">Microsoft MVP ASP.NET</li>
+      <li class="list-group-item list-group-item-dark">ASPInsider <a href="aspinsiders.com">aspinsiders.com</a></li>
+      <ul class="list-unstyled">
         <li>ASPInsiders were consulted to collaborate and contribute to the original ASP.NET MVC framework.</li>
       </ul>
     </ul>
