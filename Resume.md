@@ -10,6 +10,7 @@ categories: [professional_geek]
 
 <div class="row">
   <div class="col-4 border-right">
+  <div id="contact">
     <h3 class="text-right">CONTACT</h3>
     <ul class="list-unstyled text-right">
       <li>chris@pelatari.com <i class="fas fa-envelope"></i></li>
@@ -18,6 +19,7 @@ categories: [professional_geek]
       <li><a href="https://github.com/ChrisPelatari">GitHub <i class="fab fa-github"></i></a></li>
       <li><a href="https://bluefenix.net">bluefenix.net <i class="fas fa-link"></i></a></li>
     </ul>
+  </div>
     <h3 class="text-right">CAREER OBJECTIVE</h3>
     <p>Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. I believe in Test First Development, Continuous Delivery, Distributed Version Control, and clean, concise, simple self-documenting code.</p>
     <h3 class="text-right">RECOGNITION</h3>
