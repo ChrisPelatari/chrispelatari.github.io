@@ -40,7 +40,7 @@ categories: [professional_geek]
       <li class="list-group-item list-group-item-dark">MS SQL</li>
       <li class="list-group-item list-group-item-dark">git</li>
       <li class="list-group-item list-group-item-dark">AWS</li>
-      <li class="list-group-item list-group-item-dark">Ruby</li>
+      <li class="list-group-item list-group-item-dark">Ruby, rake</li>
       <li class="list-group-item list-group-item-dark">HTML5</li>
       <li class="list-group-item list-group-item-dark">CSS3</li>
       <li class="list-group-item list-group-item-dark">coffeescript</li>
