@@ -75,7 +75,8 @@ categories: [professional_geek]
       <li>Troubleshooting backup, restore, and indexing issues</li>
       <li>Server and cloud based experience</li>
       <li>Experienced with sqlite</li>
-      <li>Some familiarity with PostgreSQL/PLSQL</li>
+      <li>Familiarity with PostgreSQL/PLSQL</li>
+      <li>Some knowledge of NoSQL</li>
     </ul>
     <hr>
     <h3>OPEN SOURCE</h3>
