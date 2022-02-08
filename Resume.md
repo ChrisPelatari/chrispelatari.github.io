@@ -74,6 +74,7 @@ categories: [professional_geek]
       <li>Knowledge and execution of advanced TSQL queries</li>
       <li>Troubleshooting backup, restore, and indexing issues</li>
       <li>Server and cloud based experience</li>
+      <li>Eperienced with sqlite</li>
       <li>Some familiarity with PostgreSQL/PLSQL</li>
     </ul>
     <hr>
