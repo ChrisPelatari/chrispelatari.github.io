@@ -31,20 +31,20 @@ categories: [professional_geek]
       </ul>
     </ul>
     <h3 class="text-right">SKILLS</h3>
-    <ul class="text-right">
-      <li>C# (ASP.NET MVC, Windows Forms)</li>
-      <li>Javascript (Vue.js, NodeJS, jQuery, ES6)</li>
-      <li>Bootstrap</li>
-      <li>xUnit</li>
-      <li>NuGet</li>
-      <li>MS SQL</li>
-      <li>git</li>
-      <li>AWS</li>
-      <li>Ruby</li>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>coffeescript</li>
-      <li>bower, npm, grunt</li>
+    <ul class="text-right list-group list-group-flush">
+      <li class="list-group-item list-group-item-dark">C# (ASP.NET MVC, Windows Forms)</li>
+      <li class="list-group-item list-group-item-dark">Javascript (Vue.js, NodeJS, jQuery, ES6)</li>
+      <li class="list-group-item list-group-item-dark">Bootstrap</li>
+      <li class="list-group-item list-group-item-dark">xUnit</li>
+      <li class="list-group-item list-group-item-dark">NuGet</li>
+      <li class="list-group-item list-group-item-dark">MS SQL</li>
+      <li class="list-group-item list-group-item-dark">git</li>
+      <li class="list-group-item list-group-item-dark">AWS</li>
+      <li class="list-group-item list-group-item-dark">Ruby</li>
+      <li class="list-group-item list-group-item-dark">HTML5</li>
+      <li class="list-group-item list-group-item-dark">CSS3</li>
+      <li class="list-group-item list-group-item-dark">coffeescript</li>
+      <li class="list-group-item list-group-item-dark">bower, npm, grunt</li>
     </ul>
   </div>
   <div class="col">
