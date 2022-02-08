@@ -71,9 +71,10 @@ categories: [professional_geek]
     <h2>MS SQL Database Administrator</h2>
     <ul>
       <li>Fully indexed and properly normalized database solutions</li>
-      <li>Knowledge and execution of advanced SQL queries</li>
+      <li>Knowledge and execution of advanced TSQL queries</li>
       <li>Troubleshooting backup, restore, and indexing issues</li>
       <li>Server and cloud based experience</li>
+      <li>Some familiarity with PostgreSQL/PLSQL</li>
     </ul>
     <hr>
     <h3>OPEN SOURCE</h3>
