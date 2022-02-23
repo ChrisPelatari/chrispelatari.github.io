@@ -58,7 +58,7 @@ categories: [professional_geek]
       <li>Designed, developed, released, and maintained full stack ASP.NET MVC applications backed by MS SQL</li>
       <li>Converted legacy WebForms based applications to the ASP.NET MVC framework</li>
       <li>Quicklook tools - developed several SPA geological calculators using Vue.js</li>
-      <li>Familiar with Razor and custom view engine implementations</li>
+      <li>Experienced with Razor and custom view engine implementations</li>
       <li>VelSys - online Checkshot Velocity database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil</li>
       <li>Transitioned from an in-house web server to continuous integrated AWS Cloud based hosting</li>
       <li>Experienced with Ruby, some experience with Ruby on Rails and heroku</li>
