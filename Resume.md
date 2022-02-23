@@ -85,5 +85,5 @@ categories: [professional_geek]
     </ul>
     <hr>
     <h3>OPEN SOURCE</h3>
-    <p>Developed and released an open-source desktop blog posting client in 2007 called PostXING. Stopped development when Microsoft Live Writer was released.</p>
+    <p>Developed, released, and updated an open-source desktop blog posting client in 2004 called PostXING. Stopped development when Microsoft Live Writer was released.</p>
 </div>
