@@ -57,9 +57,12 @@ categories: [professional_geek]
     <ul>
       <li>Designed, developed, released, and maintained full stack ASP.NET MVC applications backed by MS SQL</li>
       <li>Converted legacy WebForms based applications to the ASP.NET MVC framework</li>
-      <li>Familiar with Razor and custom view engine implementations</li>
+      <li>Quicklook tools - developed several SPA geological calculators using Vue.js</li>
+      <li>Experienced with Razor and custom view engine implementations</li>
       <li>VelSys - online Checkshot Velocity database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil</li>
       <li>Transitioned from an in-house web server to continuous integrated AWS Cloud based hosting</li>
+      <li>Experienced with Ruby, some experience with Ruby on Rails and heroku</li>
+      <li>Deep understanding of test first MVC practices</li>
     </ul>
     <h2>Windows Desktop Developer</h2>
     <ul>
@@ -67,6 +70,8 @@ categories: [professional_geek]
       <li>VelComp - Checkshot Velocity interpretation and calculation platform</li>
       <li>VDBx - 3D Velocity database extraction program</li>
       <li>Velociraptor - Internal 3D Velocity Volume interpretation and generation platform</li>
+      <li>Experienced with custom Windows Forms Control development</li>
+      <li>Working knowledge of WPF</li>
     </ul>
     <h2>MS SQL Database Administrator</h2>
     <ul>
@@ -80,5 +85,5 @@ categories: [professional_geek]
     </ul>
     <hr>
     <h3>OPEN SOURCE</h3>
-    <p>Developed and released an open-source desktop blog posting client in 2007 called PostXING. Stopped development when Microsoft Live Writer was released.</p>
+    <p>Developed, released, and updated an open-source desktop blog posting client in 2004 called PostXING. Stopped development when Microsoft Live Writer was released.</p>
 </div>
