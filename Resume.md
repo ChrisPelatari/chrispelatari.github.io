@@ -40,7 +40,7 @@ categories: [professional_geek]
     </blockquote>
     <h3 class="text-right">SKILLS</h3>
     <ul class="text-right list-group list-group-flush">
-      <li class="list-group-item list-group-item-dark">C# (ASP.NET MVC, Windows Forms)</li>
+      <li class="list-group-item list-group-item-dark">C# (ASP.NET MVC, Windows Forms, RESTful APIs)</li>
       <li class="list-group-item list-group-item-dark">Javascript (Vue.js, NodeJS, jQuery, ES6)</li>
       <li class="list-group-item list-group-item-dark">HTML5</li>
       <li class="list-group-item list-group-item-dark">CSS3</li>
