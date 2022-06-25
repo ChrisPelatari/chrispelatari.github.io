@@ -21,7 +21,7 @@ categories: [professional_geek]
     </ul>
   </div>
     <h3 class="text-right">CAREER OBJECTIVE</h3>
-    <p class="list-group-item list-group-item-dark">Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. I believe in Test Driven Development, Continuous Delivery, Distributed Version Control, and clean, concise, simple self-documenting code.</p>
+    <p class="list-group-item list-group-item-dark">Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. I believe in test driven development, continuous delivery, distributed version control, and self-documenting clean code.</p>
     <h3 class="text-right">RECOGNITION</h3>
     <ul class="text-right list-group list-group-flush">
       <li class="list-group-item list-group-item-dark">Microsoft MVP ASP.NET</li>
