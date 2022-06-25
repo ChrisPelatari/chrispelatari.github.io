@@ -18,7 +18,7 @@ categories: [professional_geek]
       <li>Houston, TX <i class="fas fa-map-marker-alt"></i></li>
       <li><a href="https://github.com/ChrisPelatari">GitHub/ChrisPelatari <i class="fab fa-github"></i></a></li>
       <li><a href="https://bluefenix.net">bluefenix.net <i class="fas fa-link"></i></a></li>
-      <li><a href="https://chris.pelatari.com/Resume">Resume <i class="fa-solid fa-code"></i></a></li>
+      <li><a href="https://chris.pelatari.com/Resume">Resume <i class="fas fa-code"></i></a></li>
     </ul>
   </div>
     <h3 class="text-right">CAREER OBJECTIVE</h3>
