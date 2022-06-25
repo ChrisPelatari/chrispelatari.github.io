@@ -34,7 +34,6 @@ categories: [professional_geek]
       <li class="list-group-item list-group-item-dark">MS SQL</li>
       <li class="list-group-item list-group-item-dark">git</li>
       <li class="list-group-item list-group-item-dark">AWS</li>
-      <li class="list-group-item list-group-item-dark">Ruby, rake, Ruby on Rails, heroku</li>
     </ul>
     <h3 class="text-right">OPEN SOURCE</h3>
     <p class="list-group-item list-group-item-dark">Developed, released, and updated an open-source desktop MetaWeblog API client in 2004 called PostXING. </p>
