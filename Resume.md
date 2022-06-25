@@ -37,7 +37,7 @@ categories: [professional_geek]
       <li class="list-group-item list-group-item-dark">Ruby, rake, Ruby on Rails, heroku</li>
     </ul>
     <h3 class="text-right">OPEN SOURCE</h3>
-    <p class="list-group-item list-group-item-dark">Developed, released, and updated an open-source MetaWeblog API posting client in 2004 called PostXING. </p>
+    <p class="list-group-item list-group-item-dark">Developed, released, and updated an open-source desktop MetaWeblog API client in 2004 called PostXING. </p>
   </div>
   <div class="col">
     <h3>WORK EXPERIENCE</h3>
