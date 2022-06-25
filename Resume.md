@@ -78,5 +78,4 @@ categories: [professional_geek]
       <li>Familiarity with PostgreSQL and MySQL. </li>
       <li>Some knowledge of NoSQL. </li>
     </ul>
-    <hr>
 </div>
