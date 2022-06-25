@@ -86,10 +86,7 @@ categories: [professional_geek]
       <li>Familiarity with PostgreSQL and MySQL. </li>
       <li>Some knowledge of NoSQL. </li>
     </ul>
-    <br>
     <hr>
-    <br>
-    <br>
     <h3>OPEN SOURCE</h3>
     <p>Developed, released, and updated an open-source desktop blog posting client in 2004 called PostXING. It allowed posting content to multiple blog endpoints via the MetaWeblog API. </p>
 </div>
