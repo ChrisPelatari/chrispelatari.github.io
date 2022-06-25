@@ -58,32 +58,32 @@ categories: [professional_geek]
     </div>
     <h2>Full Stack .NET Web Developer</h2>
     <ul>
-      <li>Collaborated with designers, developed, released, and maintained full stack ASP.NET MVC applications backed by MS SQL. Included role based SSO and a simple Checkshot ordering system. </li>
+      <li>Collaborated with designers, developed, released, and maintained full stack ASP.NET MVC applications backed by MS SQL. Included role based SSO and a simple well log ordering system. </li>
       <li>Converted legacy WebForms based applications to the ASP.NET MVC framework. </li>
       <li>Quicklook tools - developed several SPA geological calculators using Vue.js and JavaScript charting libraries. </li>
       <li>Experienced with Razor and custom view engine implementations. </li>
-      <li>VelSys - designed, developed and maintained an online Checkshot Velocity database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil. Multi tenant application which output custom GIS layers for each client. Incorporated a google maps interface. </li>
-      <li>Transitioned from an in-house web server to continuous integrated AWS Cloud based hosting. </li>
-      <li>Experienced with Ruby, some experience with Ruby on Rails and heroku. </li>
+      <li>VelSys - designed, developed and maintained an online velocity survey database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil. Multitenant and dedicated application which output custom GIS layers for each client. Incorporated a google maps interface. </li>
+      <li>Transitioned from an in-house web server to continuous integrated AWS cloud based hosting. </li>
+      <li>Experienced with Ruby, some experience with Ruby on Rails and Heroku. </li>
       <li>Deep understanding of test driven development practices. </li>
     </ul>
     <h2>Windows Desktop Developer</h2>
     <ul>
       <li>Developed several internal and external Windows Desktop applications for the Oil & Gas Exploration industry. </li>
-      <li>VelComp - Collaborated with geophysicists to create a downhole seismic Checkshot Velocity interpretation platform. </li>
-      <li>VDBx - Collaborated with geoscientists to create a 3D Checkshot Velocity database extraction program which output surveys and 3D seismic profiles in several GIS workstation formats. </li>
-      <li>Velociraptor - An internally released collaboration to create a 3D Velocity Volume interpretation and generation platform, including GIS projection and natural neighbor gridding. </li>
-      <li>Experienced with custom Windows Forms Control development.</li>
+      <li>VelComp - Collaborated with geophysicists to create a downhole seismic checkshot velocity interpretation platform which output surveys  in several GIS workstation formats. </li>
+      <li>VDBx - Collaborated with geoscientists to create a 3D checkshot velocity database extraction program. Output checkshot velocity, SEGY, and GIS horizon data.</li>
+      <li>Velociraptor - An internal 3D velocity volume interpretation and generation platform, including GIS projection, 3D SEGY, horizons, and natural neighbor gridding. </li>
+      <li>Experienced with custom Windows Forms control development.</li>
       <li>Working knowledge of WPF. </li>
     </ul>
     <h2>MS SQL Database Administrator</h2>
     <ul>
       <li>Fully indexed and properly normalized database solutions. </li>
       <li>Knowledge and execution of advanced TSQL queries. </li>
-      <li>Troubleshooted backup, restore, and indexing issues. </li>
+      <li>Troubleshot backup, restore, and indexing issues. </li>
       <li>Server and cloud based experience. </li>
       <li>Experienced with sqlite. </li>
-      <li>Familiarity with PostgreSQL/PLSQL. </li>
+      <li>Familiarity with PostgreSQL and MySQL. </li>
       <li>Some knowledge of NoSQL. </li>
     </ul>
     <br>
