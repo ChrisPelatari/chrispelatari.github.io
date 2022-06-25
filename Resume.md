@@ -21,7 +21,7 @@ categories: [professional_geek]
     </ul>
   </div>
     <h3 class="text-right">CAREER OBJECTIVE</h3>
-    <p>Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. I believe in Test Driven Development, Continuous Delivery, Distributed Version Control, and clean, concise, simple self-documenting code.</p>
+    <p class="list-group-item list-group-item-dark">Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. I believe in Test Driven Development, Continuous Delivery, Distributed Version Control, and clean, concise, simple self-documenting code.</p>
     <h3 class="text-right">RECOGNITION</h3>
     <ul class="text-right list-group list-group-flush">
       <li class="list-group-item list-group-item-dark">Microsoft MVP ASP.NET</li>
@@ -49,10 +49,13 @@ categories: [professional_geek]
   </div>
   <div class="col">
     <h3>WORK EXPERIENCE</h3>
-    <blockquote class="blockquote">Velocity Databank, Inc.
-      <figcaption class="blockquote-footer">2001 - Present</figcaption>
-      <figcaption class="blockquote-footer">.NET Solutions Developer</figcaption>
-    </blockquote>
+    <div class="card bg-light">
+      <div class="card-header">Velocity Databank, Inc</div>
+      <div class="card-body">
+        <h5 class="card-title">.NET Solutions Developer</h5>
+        <p class="card-text">2001 - Present</p>
+      </div>
+    </div>
     <h2>Full Stack .NET Web Developer</h2>
     <ul>
       <li>Collaborated with designers, developed, released, and maintained full stack ASP.NET MVC applications backed by MS SQL. Included role based SSO and a simple Checkshot ordering system. </li>
