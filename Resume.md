@@ -26,9 +26,6 @@ categories: [professional_geek]
     <ul class="text-right list-group list-group-flush">
       <li class="list-group-item list-group-item-dark">Microsoft MVP ASP.NET</li>
       <li class="list-group-item list-group-item-dark">ASPInsider <a href="https://aspinsiders.com">aspinsiders.com</a></li>
-      <ul class="list-unstyled">
-        <li>ASPInsiders were consulted by Microsoft to collaborate on and contribute to the original ASP.NET MVC framework.</li>
-      </ul>
     </ul>          
     <h3 class="text-right">SKILLS</h3>
     <ul class="text-right list-group list-group-flush">
@@ -39,6 +36,8 @@ categories: [professional_geek]
       <li class="list-group-item list-group-item-dark">AWS</li>
       <li class="list-group-item list-group-item-dark">Ruby, rake, Ruby on Rails, heroku</li>
     </ul>
+    <h3 class="text-right">OPEN SOURCE</h3>
+    <p class="list-group-item list-group-item-dark">Developed, released, and updated an open-source desktop blog posting client in 2004 called PostXING. It allowed posting content to multiple blog endpoints via the MetaWeblog API. </p>
   </div>
   <div class="col">
     <h3>WORK EXPERIENCE</h3>
@@ -80,6 +79,4 @@ categories: [professional_geek]
       <li>Some knowledge of NoSQL. </li>
     </ul>
     <hr>
-    <h3>OPEN SOURCE</h3>
-    <p>Developed, released, and updated an open-source desktop blog posting client in 2004 called PostXING. It allowed posting content to multiple blog endpoints via the MetaWeblog API. </p>
 </div>
