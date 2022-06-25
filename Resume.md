@@ -25,24 +25,24 @@ categories: [professional_geek]
     <h3 class="text-right">RECOGNITION</h3>
     <ul class="text-right list-group list-group-flush">
       <li class="list-group-item list-group-item-dark">Microsoft MVP ASP.NET</li>
-      <li class="list-group-item list-group-item-dark">ASPInsider <a href="aspinsiders.com">aspinsiders.com</a></li>
+      <li class="list-group-item list-group-item-dark">ASPInsider <a href="https://aspinsiders.com">aspinsiders.com</a></li>
       <ul class="list-unstyled">
         <li>ASPInsiders were consulted by Microsoft to collaborate on and contribute to the original ASP.NET MVC framework.</li>
       </ul>
-    </ul>
+    </ul>          
     <h3 class="text-right">SKILLS</h3>
     <ul class="text-right list-group list-group-flush">
-      <li class="list-group-item list-group-item-dark">C# (ASP.NET MVC, Windows Forms)</li>
+      <li class="list-group-item list-group-item-dark">C# (ASP.NET MVC, Windows Forms, RESTful APIs)</li>
       <li class="list-group-item list-group-item-dark">Javascript (Vue.js, NodeJS, jQuery, ES6)</li>
+      <li class="list-group-item list-group-item-dark">HTML5</li>
+      <li class="list-group-item list-group-item-dark">CSS3</li>
       <li class="list-group-item list-group-item-dark">Bootstrap</li>
       <li class="list-group-item list-group-item-dark">xUnit</li>
       <li class="list-group-item list-group-item-dark">NuGet</li>
       <li class="list-group-item list-group-item-dark">MS SQL</li>
       <li class="list-group-item list-group-item-dark">git</li>
       <li class="list-group-item list-group-item-dark">AWS</li>
-      <li class="list-group-item list-group-item-dark">Ruby, rake</li>
-      <li class="list-group-item list-group-item-dark">HTML5</li>
-      <li class="list-group-item list-group-item-dark">CSS3</li>
+      <li class="list-group-item list-group-item-dark">Ruby, rake, Ruby on Rails, heroku</li>
       <li class="list-group-item list-group-item-dark">coffeescript</li>
       <li class="list-group-item list-group-item-dark">bower, npm, grunt</li>
     </ul>
@@ -83,7 +83,10 @@ categories: [professional_geek]
       <li>Familiarity with PostgreSQL/PLSQL. </li>
       <li>Some knowledge of NoSQL. </li>
     </ul>
+    <br>
     <hr>
+    <br>
+    <br>
     <h3>OPEN SOURCE</h3>
     <p>Developed, released, and updated an open-source desktop blog posting client in 2004 called PostXING. It allowed posting content to multiple blog endpoints via the MetaWeblog API. </p>
 </div>
