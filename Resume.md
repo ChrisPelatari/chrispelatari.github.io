@@ -61,7 +61,7 @@ categories: [professional_geek]
     </ul>
     <h2>Windows Desktop Developer</h2>
     <ul>
-      <li>Developed several internal and external Windows Desktop applications for the Oil & Gas Exploration industry. </li>
+      <li>Developed several internal and external Windows desktop applications for the oil & gas exploration industry. </li>
       <li>VelComp - Collaborated with geophysicists to create a downhole seismic checkshot velocity interpretation platform which output surveys  in several GIS workstation formats. </li>
       <li>VDBx - Collaborated with geoscientists to create a 3D checkshot velocity database extraction program. Output checkshot velocity, SEGY, and GIS horizon data.</li>
       <li>Velociraptor - An internal 3D velocity volume interpretation and generation platform, including GIS projection, 3D SEGY, horizons, and natural neighbor gridding. </li>
