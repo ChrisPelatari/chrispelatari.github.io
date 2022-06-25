@@ -16,7 +16,7 @@ categories: [professional_geek]
       <li>chris@pelatari.com <i class="fas fa-envelope"></i></li>
       <li>(281) 684-5688 <i class="fas fa-phone"></i></li>
       <li>Houston, TX <i class="fas fa-map-marker-alt"></i></li>
-      <li><a href="https://github.com/ChrisPelatari">GitHub <i class="fab fa-github"></i></a></li>
+      <li><a href="https://github.com/ChrisPelatari">GitHub/ChrisPelatari <i class="fab fa-github"></i></a></li>
       <li><a href="https://bluefenix.net">bluefenix.net <i class="fas fa-link"></i></a></li>
     </ul>
   </div>
