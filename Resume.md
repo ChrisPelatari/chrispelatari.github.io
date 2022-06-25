@@ -21,7 +21,7 @@ categories: [professional_geek]
     </ul>
   </div>
     <h3 class="text-right">CAREER OBJECTIVE</h3>
-    <p class="list-group-item list-group-item-dark">Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently. I believe in test driven development, continuous delivery, distributed version control, and self-documenting clean code.</p>
+    <p class="list-group-item list-group-item-dark">Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently.</p>
     <h3 class="text-right">RECOGNITION</h3>
     <ul class="text-right list-group list-group-flush">
       <li class="list-group-item list-group-item-dark">Microsoft MVP ASP.NET</li>
@@ -37,7 +37,7 @@ categories: [professional_geek]
       <li class="list-group-item list-group-item-dark">Ruby, rake, Ruby on Rails, heroku</li>
     </ul>
     <h3 class="text-right">OPEN SOURCE</h3>
-    <p class="list-group-item list-group-item-dark">Developed, released, and updated an open-source desktop blog posting client in 2004 called PostXING. It allowed posting content to multiple blog endpoints via the MetaWeblog API. </p>
+    <p class="list-group-item list-group-item-dark">Developed, released, and updated an open-source MetaWeblog API posting client in 2004 called PostXING. </p>
   </div>
   <div class="col">
     <h3>WORK EXPERIENCE</h3>
