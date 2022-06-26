@@ -75,7 +75,7 @@ categories: [professional_geek]
       <li>Troubleshot backup, restore, and indexing issues. </li>
       <li>Server and cloud based experience. </li>
       <li>Experienced with sqlite. </li>
-      <li>Familiarity with PostgreSQL and MySQL. </li>
+      <li>Familiar with PostgreSQL and MySQL. </li>
       <li>Some knowledge of NoSQL. </li>
     </ul>
 </div>
