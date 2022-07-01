@@ -29,3 +29,5 @@ editor: code
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+
+github: [metadata]
