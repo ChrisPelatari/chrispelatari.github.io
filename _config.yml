@@ -11,7 +11,7 @@ email: support@bluefenix.net
 description: professional geek ramblings <br> est. 2003
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chris.pelatari.com" # the base hostname & protocol for your site
-twitter_username: bluefenixpro
+twitter_username: bluefenix_net
 github_username:  ChrisPelatari
 
 timezone: America/Chicago
