@@ -19,11 +19,11 @@
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
+          {% if site.mastodon_username %}
+          <div class="col-sm">
+            <a href="https://{{site.mastodon_username}}"><i class="fab fa-mastodon"></i> Mastodon</a>
+          </div>
+          {% endif %} 
           <li>
             <div class="col-sm">
               <a href="{{ site.url }}/feed.xml">

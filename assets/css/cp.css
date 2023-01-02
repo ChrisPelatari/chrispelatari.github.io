@@ -15,3 +15,7 @@ body {
 .site-footer {
   border: 0px !important;
 }
+
+.project-tagline {
+  text-align: center;
+}
