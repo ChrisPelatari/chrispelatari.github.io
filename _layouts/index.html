@@ -27,6 +27,10 @@
             <i class="fab fa-twitter"></i> Twitter</a>
           </div>
         {% endif %}
+        {% if site.mastadon_username %}
+          <div class="col-sm">
+            <a href="https://{{mastodon_username}}"><i class="fa-brands fa-mastodon"></i> Mastodon</a>
+        {% endif %} 
         {% if site.github_username %}
           <div class="col-sm">
             <a href="https://github.com/{{ site.github_username }}">

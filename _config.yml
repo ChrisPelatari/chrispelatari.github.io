@@ -13,6 +13,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chris.pelatari.com" # the base hostname & protocol for your site
 twitter_username: bluefenix_net
 github_username:  ChrisPelatari
+mastadon_username:
+https://hachyderm.io/@blue_fenix
 
 timezone: America/Chicago
 
