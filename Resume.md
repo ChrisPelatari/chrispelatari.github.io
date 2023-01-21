@@ -27,7 +27,7 @@ categories: [professional_geek]
     <ul class="text-right list-group list-group-flush">
       <li class="list-group-item list-group-item-light bg-dark">Microsoft MVP ASP.NET</li>
       <li class="list-group-item list-group-item-light bg-dark">ASPInsider <a href="https://aspinsiders.com">aspinsiders.com</a></li>
-    </ul>          
+    </ul>
     <h3 class="text-right">SKILLS</h3>
     <ul class="text-right list-group list-group-flush">
       <li class="list-group-item list-group-item-light bg-dark">C# (ASP.NET MVC, Windows Forms, RESTful APIs, xUnit, NuGet)</li>
@@ -64,10 +64,11 @@ categories: [professional_geek]
     <ul>
       <li>Collaborated with designers, developed, released, and maintained full stack ASP.NET MVC applications backed by MS SQL. Included role based SSO and a simple well log ordering system. </li>
       <li>Converted legacy WebForms based applications to the ASP.NET MVC framework. </li>
-      <li>Quicklook tools - developed several SPA geological calculators using Vue.js and JavaScript charting libraries. </li>
+      <li><a href="https://velocitydatabank.com/quicklook">Quicklook tools</a> - developed several SPA geological calculators using Vue.js and JavaScript charting libraries. </li>
       <li>Experienced with Razor and custom view engine implementations. </li>
-      <li>VelSys - designed, developed and maintained an online velocity survey database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil. Multitenant and dedicated application which output custom GIS layers for each client. Incorporated a google maps interface. </li>
+      <li><a href="https://velsys.velocitydatabank.com">VelSys</a> - designed, developed and maintained an online velocity survey database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil. Multitenant and dedicated application which output custom GIS layers for each client. Incorporated a google maps interface. </li>
       <li>Transitioned from an in-house web server to continuous integrated AWS cloud based hosting. </li>
+      <li>Transitioned from AWS cloud based hosting to Azure</a>
       <li>ASP.NET Core minimal APIs</li>
       <li>Experienced with Ruby, some experience with Ruby on Rails and Heroku. </li>
       <li>Deep understanding of test driven development practices. </li>
