@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<manifest xmlns="http://schemas.microsoft.com/wlw/manifest/weblog">
+
+  <options>
+    <clientType>MetaWeblog</clientType>
+	<supportsKeywords>Yes</supportsKeywords>
+	<supportsGetTags>No</supportsGetTags>
+  </options>
+
+  <weblog>
+    <serviceName>MetaWeblog</serviceName>
+    <imageUrl>assets/images/fenix.png</imageUrl>
+    <homepageLinkText>View site</homepageLinkText>
+    <postEditingUrl>
+      <![CDATA[
+			{blog-postapi-url}/editPost?postid={postid}&blogid={blogid}
+		]]>
+    </postEditingUrl>
+  </weblog>
+</manifest>
