@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background: #ccc url('/assets/images/header.png') no-repeat;
+  background: url('/assets/images/header_transparent.png') no-repeat;
 }
 
 h1, h2, h3, h4, h5, h6 {
