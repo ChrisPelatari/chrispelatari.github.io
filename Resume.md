@@ -13,39 +13,51 @@ categories: [professional_geek]
   <div id="contact">
     <h3 class="text-right">CONTACT</h3>
     <ul class="list-unstyled text-right">
-      <li>chris@pelatari.com <i class="fas fa-envelope"></i></li>
-      <li>(281) 684-5688 <i class="fas fa-phone"></i></li>
-      <li>Houston, TX <i class="fas fa-map-marker-alt"></i></li>
+      <li><a href="mailto:chris@pelatari.com">chris@pelatari.com <i class="fas fa-envelope"></i></a></li>
+      <li><a href="tel:2816845688">(281) 684-5688 <i class="fas fa-phone"></i></a></li>
+      <li><a href="https://goo.gl/maps/kBStcgycPRVgHfiv6" target="blank">Houston, TX <i class="fas fa-map-marker-alt"></i></a></li>
       <li><a href="https://github.com/ChrisPelatari">GitHub/ChrisPelatari <i class="fab fa-github"></i></a></li>
       <li><a href="https://bluefenix.net">bluefenix.net <i class="fas fa-link"></i></a></li>
       <li><a href="https://chris.pelatari.com/Resume">Resume <i class="fas fa-code"></i></a></li>
     </ul>
   </div>
     <h3 class="text-right">CAREER OBJECTIVE</h3>
-    <p class="list-group-item list-group-item-dark">Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently.</p>
+    <p class="list-group-item list-group-item-light bg-dark">Simplicity. Over 20 years of experience with the .NET framework has taught me that it's best to start with the simplest solution that satisfies customer needs. I enjoy working collaboratively but also am highly experienced in delivering full stack solutions independently.</p>
     <h3 class="text-right">RECOGNITION</h3>
     <ul class="text-right list-group list-group-flush">
-      <li class="list-group-item list-group-item-dark">Microsoft MVP ASP.NET</li>
-      <li class="list-group-item list-group-item-dark">ASPInsider <a href="https://aspinsiders.com">aspinsiders.com</a></li>
+      <li class="list-group-item list-group-item-light bg-dark">Microsoft MVP ASP.NET</li>
+      <li class="list-group-item list-group-item-light bg-dark">ASPInsider <a href="https://aspinsiders.com">aspinsiders.com</a></li>
     </ul>          
     <h3 class="text-right">SKILLS</h3>
     <ul class="text-right list-group list-group-flush">
-      <li class="list-group-item list-group-item-dark">C# (ASP.NET MVC, Windows Forms, RESTful APIs, xUnit, NuGet)</li>
-      <li class="list-group-item list-group-item-dark">Web: HTML5, CSS3, Bootstrap, JavaScript (Vue.js, NodeJS, jQuery, ES6)</li>
-      <li class="list-group-item list-group-item-dark">MS SQL</li>
-      <li class="list-group-item list-group-item-dark">git</li>
-      <li class="list-group-item list-group-item-dark">AWS</li>
+      <li class="list-group-item list-group-item-light bg-dark">C# (ASP.NET MVC, Windows Forms, RESTful APIs, xUnit, NuGet)</li>
+      <li class="list-group-item list-group-item-light bg-dark">Web: HTML5, CSS3, Bootstrap, JavaScript (React, Vue.js, NodeJS, jQuery, ES6)</li>
+      <li class="list-group-item list-group-item-light bg-dark">MS SQL</li>
+      <li class="list-group-item list-group-item-light bg-dark">SQLite</li>
+      <li class="list-group-item list-group-item-light bg-dark">git</li>
+      <li class="list-group-item list-group-item-light bg-dark">AWS</li>
+      <li class="list-group-item list-group-item-light bg-dark">Azure DevOps</li>
     </ul>
     <h3 class="text-right">OPEN SOURCE</h3>
-    <p class="list-group-item list-group-item-dark">Developed, released, and updated an open-source desktop MetaWeblog API client in 2004 called PostXING. </p>
+    <ul class="text-right list-group list-group-flush">
+      <li class="list-group-item list-group-item-light bg-dark">Developed, released, and updated an open-source desktop MetaWeblog API client in 2004 called PostXING. </li>
+      <li class="list-group-item list-group-item-light bg-dark"><a href="https://github.com/ChrisPelatari/GitHub.Pages.Writer.API">GitHub.Pages.Writer.API</a> - A C# implementation of the MetaWeblog API over a local jekyll install.</li>
+    </ul>
   </div>
   <div class="col">
     <h3>WORK EXPERIENCE</h3>
-    <div class="card bg-light">
+    <div class="card bg-dark">
       <div class="card-header">Velocity Databank, Inc</div>
       <div class="card-body">
         <h5 class="card-title">.NET Solutions Developer</h5>
-        <p class="card-text">2001 - Present</p>
+        <p class="card-text">2001 - 2022</p>
+      </div>
+    </div>
+    <div class="card bg-dark">
+      <div class="card-header">Universal Weather and Aviation, Inc</div>
+      <div class="card-body">
+        <h5 class="card-title">Senior .NET Integrations Developer</h5>
+        <p class="card-text">2022 - Present</p>
       </div>
     </div>
     <h2>Full Stack .NET Web Developer</h2>
@@ -56,6 +68,7 @@ categories: [professional_geek]
       <li>Experienced with Razor and custom view engine implementations. </li>
       <li>VelSys - designed, developed and maintained an online velocity survey database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil. Multitenant and dedicated application which output custom GIS layers for each client. Incorporated a google maps interface. </li>
       <li>Transitioned from an in-house web server to continuous integrated AWS cloud based hosting. </li>
+      <li>ASP.NET Core minimal APIs</li>
       <li>Experienced with Ruby, some experience with Ruby on Rails and Heroku. </li>
       <li>Deep understanding of test driven development practices. </li>
     </ul>
