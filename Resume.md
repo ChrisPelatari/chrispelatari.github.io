@@ -68,7 +68,7 @@ categories: [professional_geek]
       <li>Experienced with Razor and custom view engine implementations. </li>
       <li><a href="https://velsys.velocitydatabank.com">VelSys</a> - designed, developed and maintained an online velocity survey database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil. Multitenant and dedicated application which output custom GIS layers for each client. Incorporated a google maps interface. </li>
       <li>Transitioned from an in-house web server to continuous integrated AWS cloud based hosting. </li>
-      <li>Transitioned from AWS cloud based hosting to Azure</a>
+      <li>Transitioned from AWS cloud based hosting to Azure</li>
       <li>ASP.NET Core minimal APIs</li>
       <li>Experienced with Ruby, some experience with Ruby on Rails and Heroku. </li>
       <li>Deep understanding of test driven development practices. </li>
