@@ -64,7 +64,7 @@ categories: [professional_geek]
     <ul>
       <li>Collaborated with designers, developed, released, and maintained full stack ASP.NET MVC applications backed by MS SQL. Included role based SSO and a simple well log ordering system. </li>
       <li>Converted legacy WebForms based applications to the ASP.NET MVC framework. </li>
-      <li><a href="https://velocitydatabank.com/quicklook">Quicklook tools</a> - developed several SPA geological calculators using Vue.js and JavaScript charting libraries. </li>
+      <li><a href="https://www.velocitydatabank.com/quicklook">Quicklook tools</a> - developed several SPA geological calculators using Vue.js and JavaScript charting libraries. </li>
       <li>Experienced with Razor and custom view engine implementations. </li>
       <li><a href="https://velsys.velocitydatabank.com">VelSys</a> - designed, developed and maintained an online velocity survey database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil. Multitenant and dedicated application which output custom GIS layers for each client. Incorporated a google maps interface. </li>
       <li>Transitioned from an in-house web server to continuous integrated AWS cloud based hosting. </li>
