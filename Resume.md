@@ -36,7 +36,7 @@ categories: [professional_geek]
     <h3 class="text-right">SKILLS</h3>
     <ul class="text-right list-group list-group-flush">
       <li class="list-group-item list-group-item-dark">C# (ASP.NET MVC, Windows Forms, RESTful APIs, xUnit, NuGet)</li>
-      <li class="list-group-item list-group-item-dark">Web: HTML5, CSS3, Bootstrap, JavaScript (React, Vue.js, NodeJS, jQuery, ES6)</li>
+      <li class="list-group-item list-group-item-dark">Web: HTML5, CSS3, Bootstrap, JavaScript (Vue.js, NodeJS, jQuery, ES6)</li>
       <li class="list-group-item list-group-item-dark">MS SQL</li>
       <li class="list-group-item list-group-item-dark">SQLite</li>
       <li class="list-group-item list-group-item-dark">git</li>
@@ -68,7 +68,7 @@ categories: [professional_geek]
       <a href="https://www.universalweather.com/">Universal Weather and Aviation, Inc</a></div>
       <div class="card-body">
         <h5 class="card-title">Senior .NET Integrations Developer</h5>
-        <p class="card-text">2022 - Present</p>
+        <p class="card-text">2022 - 2/2023</p>
       </div>
     </div>
     <h2>Full Stack .NET Web Developer</h2>
