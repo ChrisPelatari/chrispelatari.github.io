@@ -67,7 +67,7 @@ categories: [professional_geek]
       <img src="assets/images/uwa.png" class="img-fluid" width="32px" />
       <a href="https://www.universalweather.com/">Universal Weather and Aviation, Inc</a></div>
       <div class="card-body">
-        <h5 class="card-title">Senior .NET Integrations Developer</h5>
+        <h5 class="card-title">Senior .NET Integration Developer</h5>
         <p class="card-text">2022 - 2/2023</p>
       </div>
     </div>
