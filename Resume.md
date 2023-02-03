@@ -82,6 +82,11 @@ categories: [professional_geek]
       <li>Transitioned from <a href="https://aws.amazon.com/">AWS</a> cloud based hosting to <a href="https://azure.microsoft.com/en-us/">Azure</a>.</li>
       <li><a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-7.0">ASP.NET Core minimal APIs</a></li>
       <li>Experienced with <a href="https://www.ruby-lang.org/en/">Ruby</a>, some experience with <a href="https://rubyonrails.org/">Ruby on Rails</a> and <a href="https://www.heroku.com/">Heroku</a>. </li>
+      <li>Created a web accessible asp.net core webapi endpoint that communicated with internal servers to integrate SalesForce with DocLink.</li>
+      <li>Created a Microsoft CRM SDK application which loaded legacy data from CRM and SharePoint to prepare for migration to SalesForce and DocLink.</li>
+      <li>Created a VPN aware console application to upload legacy CRM and SharePoint data to SalesForce and DocLink.</li>
+      <li>Used Okta and JWT Bearer authorization for multiple webapi projects.</li>
+      <li>Collaborated on React applications using react-admin and mui</li>
       <li>Deep understanding of <a href="https://en.wikipedia.org/wiki/Test-driven_development">test driven development</a> practices. </li>
     </ul>
     <h2>Windows Desktop Developer</h2>
