@@ -37,6 +37,8 @@ categories: [professional_geek]
     <ul class="text-right list-group list-group-flush">
       <li class="list-group-item list-group-item-dark">C# (ASP.NET MVC, Windows Forms, RESTful APIs, xUnit, NuGet)</li>
       <li class="list-group-item list-group-item-dark">Web: HTML5, CSS3, Bootstrap, JavaScript (Vue.js, NodeJS, jQuery, ES6)</li>
+      <li class="list-group-item list-group-item-dark">Entity Framework Core</li>
+      <li class="list-group-item list-group-item-dark">Dapper</li>
       <li class="list-group-item list-group-item-dark">MS SQL</li>
       <li class="list-group-item list-group-item-dark">SQLite</li>
       <li class="list-group-item list-group-item-dark">git</li>
