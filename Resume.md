@@ -89,7 +89,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 
 ### WORK EXPERIENCE
 
-<div class="card" style="width: 18rem;">
+<div class="card">
   <div class="card-body">
     <h5 class="card-title"><img src="assets/images/uwa.png" class="img-fluid" width="32px" /> Universal Weather and Aviation, Inc</h5>
     <h6 class="card-subtitle mb-2 text-muted">Senior .NET Integration Developer 2022 - 2/2023</h6>
@@ -108,7 +108,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Used JWT Bearer authorization for multiple projects.
 - Collaborated on a SPA using react-admin and mui.
 
-<div class="card" style="width: 18rem;">
+<div class="card">
   <div class="card-body">
     <h5 class="card-title"><img src="assets/images/vdb.png" class="img-fluid" width="32px" /> Velocity Databank, Inc</h5>
     <h6 class="card-subtitle mb-2 text-muted">Senior .NET Integration Developer 2022 - 2/2023</h6>
