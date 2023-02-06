@@ -45,7 +45,7 @@ categories: [professional_geek]
 To leverage my over 20 years of experience with the .NET framework providing elegant and efficient solutions for clients, while fostering a collaborative and productive work environment. Seeking a full stack developer role where my skills can be utilized to deliver software that is a joy to use.
 
 ## RECOGNITION
-- [Microsoft MVP ASP.NET](https://mvp.microsoft.com) 2004-2007
+- [Microsoft MVP ASP.NET](https://mvp.microsoft.com) 2004 - 2007
 - [ASPInsider](https://aspinsiders.com) 2005 - Present
 
 ## CORE SKILLS
