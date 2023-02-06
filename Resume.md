@@ -49,6 +49,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - ASPInsider [aspinsiders.com](https://aspinsiders.com)
 
 ## CORE SKILLS
+
 | C# | Web | Database & Infrastructure |
 |-----|-----|---------------------------|
 | ASP.NET MVC | HTML5 | MS SQL |
