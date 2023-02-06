@@ -95,7 +95,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 <div class="card">
   <div class="card-body">
     <h5 class="card-title"><img src="assets/images/vdb.png" class="img-fluid" width="32px" /> Velocity Databank, Inc</h5>
-    <h6 class="card-subtitle mb-2 text-muted">Senior .NET Integration Developer 2022 - 2/2023</h6>
+    <h6 class="card-subtitle mb-2 text-muted">Senior .NET Integration Developer 2001 - 2022</h6>
   </div>
 </div>
 
