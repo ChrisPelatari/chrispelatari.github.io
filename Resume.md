@@ -107,7 +107,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - [VelSys](https://www.velocitydatabank.com/products/VelSys)
   - designed, developed and maintained an online velocity survey database delivery system for clients such as [Anadarko Petroleum](https://en.wikipedia.org/wiki/Anadarko_Petroleum), [Occidental](https://www.oxy.com/about/), [Apache](https://www.apachecorp.com/), and [ExxonMobil](https://www.exxon.com/en). Multitenant and dedicated application which output custom GIS layers for each client. 
 - Incorporated a JavaScript Google Maps interface.
-- Included custom map tiles for all counties and territories in the Continental United States. 
+- Included custom map tiles for all county boundaries in the Continental United States. 
 - Transitioned from an in-house web server to continuous integrated [AWS](https://aws.amazon.com/) cloud based hosting.
 - Transitioned from [AWS](https://aws.amazon.com/) cloud based hosting to [Azure](https://azure.microsoft.com/en-us/).
 - [ASP.NET Core minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-7.0)
