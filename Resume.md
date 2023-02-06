@@ -100,9 +100,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Created a custom ProtectedRoute component for a legacy version of React.
 - Created a fully unit tested and authenticated asp.net core webapi REST application that communicated with internal servers to allow external cloud services to securely display multiple MIME types.
 - Manually tested asp.net core webapi rest implementations using Postman.
-- Debugged file size limitations in IIS.
 - Created an SDK application which downloaded legacy data to prepare for migration to new cloud based services.
-- Overcame bandwidth limitations using batch processing logic.
 - Created a VPN aware console application to upload legacy data.
 - Used JWT Bearer authorization for multiple projects.
 
