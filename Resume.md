@@ -6,7 +6,7 @@ categories: [professional_geek]
 ---
 <style>
   body {
-    background-color: #ccc;
+    background-color: #eee;
     color: #222;
   }
 </style>
@@ -18,25 +18,25 @@ categories: [professional_geek]
 
 <div class="row">
   <div class="col">
-    <a href="mailto:chris@pelatari.com">chris@pelatari.com</a> <i class="fas fa-envelope"></i> 
+    <a href="mailto:chris@pelatari.com">chris@pelatari.com <i class="fas fa-envelope"></i> </a>
   </div>
   <div class="col">
-    <a href="tel:2816845688">(281) 684-5688</a> <i class="fas fa-phone"></i>
+    <a href="tel:2816845688">(281) 684-5688 <i class="fas fa-phone"></i></a>
   </div>
   <div class="col">
-    <a href="https://goo.gl/maps/kBStcgycPRVgHfiv6">Houston, TX</a> <i class="fas fa-map-marker-alt"></i>
+    <a href="https://goo.gl/maps/kBStcgycPRVgHfiv6">Houston, TX <i class="fas fa-map-marker-alt"></i></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col">
-    <a href="https://github.com/ChrisPelatari">GitHub</a> <i class="fab fa-github"></i>
+    <a href="https://github.com/ChrisPelatari">GitHub <i class="fab fa-github"></i></a>
   </div>
   <div class="col">
-    <a href="https://bluefenix.net">bluefenix.net</a> <img src="assets/images/fenix.png" width="16px"/>
+    <a href="https://bluefenix.net">bluefenix.net <img src="assets/images/fenix.png" width="25px"/></a>
   </div>
   <div class="col">
-    <a href="https://chris.pelatari.com/Resume">Resume</a> <i class="fas fa-code"></i>
+    <a href="https://chris.pelatari.com/Resume">Resume <i class="fas fa-code"></i></a> 
   </div>
 </div>
 
