@@ -65,6 +65,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
   <div class="col">
     <ul>
       <li>HTML5</li>
+      <li>Markdown</li>
       <li>CSS3</li>
       <li>Bootstrap</li>
       <li>JavaScript</li>
