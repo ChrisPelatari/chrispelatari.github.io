@@ -55,11 +55,11 @@ To leverage my over 20 years of experience with the .NET framework providing ele
     <ul>
       <li>C# 11.0</li>
       <li>ASP.NET MVC</li>
+      <li>Web APIs</li>
       <li>Windows Forms</li>
-      <li>RESTful APIs</li>
-      <li>xUnit</li>
-      <li>NuGet</li>
       <li>WPF</li>
+      <li>Visual Studio</li>
+      <li>xUnit</li>
     </ul>
   </div>
   <div class="col">
