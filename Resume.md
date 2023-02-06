@@ -144,7 +144,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Created an SDK application which downloaded legacy data to prepare for migration to new cloud based services.
 - Overcame bandwidth limitations using batch processing logic.
 - Created a VPN aware console application to upload legacy data.
-- Included a fake local interface implementation to get proper upload counts without uploading data to the cloud.
+- Included a fake local interface implementation to get proper upload metrics without uploading data to the cloud.
 - Used JWT Bearer authorization for multiple projects.
 - Collaborated on a SPA using react-admin and mui.
 - Created an update or insert stored procedure to track database schema versions.
