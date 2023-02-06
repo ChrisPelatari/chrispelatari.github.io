@@ -11,8 +11,8 @@ categories: [professional_geek]
   }
 </style>
 
-# Chris Pelatari
-## Senior Full Stack .NET Web Developer
+<h1 class="text-center border-bottom">Chris Pelatari</h1>
+<h3 class="text-center">Senior Web Developer</h3>
 
 ### CONTACT
 
