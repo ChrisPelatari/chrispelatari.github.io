@@ -21,15 +21,12 @@ categories: [professional_geek]
     <a href="mailto:chris@pelatari.com">chris@pelatari.com <i class="fas fa-envelope"></i> </a>
   </div>
   <div class="col">
-    <a href="tel:2816845688">(281) 684-5688 <i class="fas fa-phone"></i></a>
+    <a href="https://github.com/ChrisPelatari">GitHub <i class="fab fa-github"></i></a>
   </div>
 </div>
 <div class="row">
   <div class="col">
-    <a href="https://goo.gl/maps/kBStcgycPRVgHfiv6">Houston, TX <i class="fas fa-map-marker-alt"></i></a>
-  </div>
-  <div class="col">
-    <a href="https://github.com/ChrisPelatari">GitHub <i class="fab fa-github"></i></a>
+    <a href="tel:2816845688">(281) 684-5688 <i class="fas fa-phone"></i></a>
   </div>
 </div>
 
