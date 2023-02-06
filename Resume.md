@@ -31,9 +31,6 @@ categories: [professional_geek]
   <div class="col">
     <a href="https://github.com/ChrisPelatari">GitHub <i class="fab fa-github"></i></a>
   </div>
-  <div class="col">
-    <a href="https://bluefenix.net">bluefenix.net <img src="assets/images/fenix.png" width="25px"/></a>
-  </div>
 </div>
 
 ## CAREER OBJECTIVE
