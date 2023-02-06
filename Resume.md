@@ -115,10 +115,6 @@ To leverage my over 20 years of experience with the .NET framework providing ele
   </div>
 </div>
 
-#### .NET Solutions Developer
-
-##### 2001 - 2022
-
 - Collaborated with designers, developed, released, and maintained full stack [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) MVC applications backed by MS SQL. Included role based SSO and a simple well log ordering system.
 - Converted legacy WebForms based applications to the [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet) framework.
 - [Quicklook tools](https://www.velocitydatabank.com/quicklook) 
