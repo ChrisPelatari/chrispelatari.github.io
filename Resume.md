@@ -12,7 +12,7 @@ categories: [professional_geek]
 </style>
 
 <h1 class="text-center border-bottom">Chris Pelatari</h1>
-<h3 class="text-center">Senior Web Developer</h3>
+<h3 class="text-center">Senior Full Stack .NET Web Developer</h3>
 
 ### CONTACT
 
