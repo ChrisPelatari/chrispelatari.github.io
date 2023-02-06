@@ -50,19 +50,43 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 
 ## CORE SKILLS
 
-| C# | Web | Database & Infrastructure |
-|-----|-----|---------------------------|
-| ASP.NET MVC | HTML5 | MS SQL |
-| Windows Forms  | CSS3 | SQLite |
-| RESTful APIs | Bootstrap | Entity Framework Core |
-| xUnit | JavaScript | Dapper |
-| NuGet | Vue.js | git |
-| WPF | NodeJS | AWS |
-| TDD | jQuery | Azure DevOps |
-
+<div class="row">
+  <div class="col">
+    <ul>
+      <li>ASP.NET MVC</li>
+      <li>Windows Forms</li>
+      <li>RESTful APIs</li>
+      <li>xUnit</li>
+      <li>NuGet</li>
+      <li>WPF</li>
+      <li>TDD</li>
+    </ul>
+  </div>
+  <div class="col">
+    <ul>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>Bootstrap</li>
+      <li>JavaScript</li>
+      <li>Vue.js</li>
+      <li>NodeJS</li>
+      <li>jQuery</li>
+    </ul>
+  </div>
+  <div class="col">
+    <ul>
+      <li>MS SQL</li>
+      <li>SQLite</li>
+      <li>Entity Framework Core</li>
+      <li>Dapper</li>
+      <li>git</li>
+      <li>AWS</li>
+      <li>Azure DevOps</li>
+    </ul>
+  </div>
+</div>
 
 ### WORK EXPERIENCE
-
 
 <h3>
   <img src="assets/images/vdb.png" class="img-fluid" width="32px" />
