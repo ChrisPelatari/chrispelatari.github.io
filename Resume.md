@@ -36,7 +36,7 @@ categories: [professional_geek]
     <a href="https://bluefenix.net">bluefenix.net <img src="assets/images/fenix.png" width="25px"/></a>
   </div>
   <div class="col">
-    <a href="https://chris.pelatari.com/Resume">Resume <i class="fas fa-code"></i></a> 
+    <a href="https://chris.pelatari.com/Resume">Resume <strong>.md</strong></a> 
   </div>
 </div>
 
