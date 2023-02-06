@@ -49,15 +49,16 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - ASPInsider [aspinsiders.com](https://aspinsiders.com)
 
 ## CORE SKILLS
-- C# (ASP.NET MVC, Windows Forms, RESTful APIs, xUnit, NuGet)
-- Web: HTML5, CSS3, Bootstrap, JavaScript (Vue.js, NodeJS, jQuery, ES6)
-- Entity Framework Core
-- Dapper
-- MS SQL
-- SQLite
-- git
-- AWS
-- Azure DevOps
+| C# | Web | Database & Infrastructure |
+|-----|-----|---------------------------|
+| ASP.NET MVC | HTML5 | MS SQL |
+| Windows Forms  | CSS3 | SQLite |
+| RESTful APIs | Bootstrap | Entity Framework Core |
+| xUnit | JavaScript | Dapper |
+| NuGet | Vue.js | git |
+| WPF | NodeJS | AWS |
+| TDD | jQuery | Azure DevOps |
+
 
 ### WORK EXPERIENCE
 
@@ -90,16 +91,13 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Velociraptor 
   - An internally released solution for creating 3D Velocity Volumes, including GIS projection, velocity interpretation, volume generation, and nearest neighbor gridding.
 - Experienced with custom Windows Forms Control development.
-- Working knowledge of WPF.
 
 ### MS SQL Database Administrator
 - Fully indexed and properly normalized database solutions.
 - Knowledge and execution of advanced TSQL queries.
 - Troubleshot backup, restore, and indexing issues.
 - Server and cloud based experience.
-- Experienced with SQLite.
 - Familiar with PostgreSQL and MySQL.
-- Some knowledge of NoSQL.
 
 <h3>
   <img src="assets/images/uwa.png" class="img-fluid" width="32px" />
