@@ -15,6 +15,7 @@ categories: [professional_geek]
 ## Senior Full Stack .NET Web Developer
 
 ### CONTACT
+
 <div class="row">
   <div class="col">
     <a href="mailto:chris@pelatari.com">chris@pelatari.com</a> <i class="fas fa-envelope"></i> 
@@ -38,7 +39,6 @@ categories: [professional_geek]
     <a href="https://chris.pelatari.com/Resume">Resume</a> <i class="fas fa-code"></i>
   </div>
 </div>
-
 
 ## CAREER OBJECTIVE
 
