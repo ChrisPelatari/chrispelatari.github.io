@@ -2,7 +2,6 @@
 title: "Resume"
 layout: resume
 author: chrispelatari
-categories: [professional_geek]
 ---
 <style>
   body {
@@ -43,7 +42,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
     <ul>
       <li>C# 11.0</li>
       <li>ASP.NET MVC</li>
-      <li>Web APIs</li>
+      <li>ASP.NET Core Web API</li>
       <li>Windows Forms</li>
       <li>WPF</li>
       <li>Visual Studio</li>
@@ -84,10 +83,10 @@ To leverage my over 20 years of experience with the .NET framework providing ele
   </div>
 </div>
 
-- Introduced unit testing to an existing asp.net core webapi application with a React front end.
+- Introduced unit testing to an existing ASP.NET Core Web API application with a React front end.
 - Created a custom ProtectedRoute component for a legacy version of React.
-- Created a fully unit tested and authenticated asp.net core webapi REST application that communicated with internal servers to allow external cloud services to securely display multiple MIME types.
-- Manually tested asp.net core webapi rest implementations using Postman.
+- Created a fully unit tested and authenticated ASP.NET Core Web API REST application that communicated with internal servers to allow external cloud services to securely display multiple MIME types.
+- Manually tested ASP.NET Core Web API REST implementations using Postman.
 - Created an SDK application which downloaded legacy data to prepare for migration to new cloud based services.
 - Created a VPN aware console application to upload legacy data.
 - Used JWT Bearer authorization for multiple projects.
@@ -111,7 +110,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Included custom map tiles for all county boundaries in the Continental United States. 
 - Transitioned from an in-house web server to continuous integrated [AWS](https://aws.amazon.com/) cloud based hosting.
 - Transitioned from [AWS](https://aws.amazon.com/) cloud based hosting to [Azure](https://azure.microsoft.com/en-us/).
-- [ASP.NET Core minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-7.0)
+- Experienced with [ASP.NET Core Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-7.0)
 - Experienced with [Ruby](https://www.ruby-lang.org/en/), some experience with [Ruby on Rails](https://rubyonrails.org/) and [Heroku](https://www.heroku.com/).
 - Developed several internal and external Windows Desktop applications for the Oil & Gas Exploration industry. 
 - Incorporated open source license validation and API based license renewal for all Windows Forms applications. 
