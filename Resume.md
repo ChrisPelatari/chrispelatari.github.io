@@ -33,7 +33,7 @@ categories: [professional_geek]
     <a href="https://github.com/ChrisPelatari">GitHub</a> <i class="fab fa-github"></i>
   </div>
   <div class="col">
-    <a href="https://bluefenix.net">bluefenix.net</a> <img src="assets/fenix.png" width="16px"/>
+    <a href="https://bluefenix.net">bluefenix.net</a> <img src="assets/images/fenix.png" width="16px"/>
   </div>
   <div class="col">
     <a href="https://chris.pelatari.com/Resume">Resume</a> <i class="fas fa-code"></i>
