@@ -139,8 +139,3 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Created a VPN aware console application to upload legacy CRM and SharePoint data to SalesForce and DocLink.
 - Used Okta and JWT Bearer authorization for multiple webapi projects.
 - Collaborated on React applications using react-admin and mui.
-
-### OPEN SOURCE
-
-- Developed, released, and updated an open-source desktop MetaWeblog API client in 2004 called [PostXING](https://github.com/ChrisPelatari/PostXING.MetaWeblogProxy).
-- [GitHub.Pages.Writer.API](https://github.com/ChrisPelatari/GitHub.Pages.Writer.API) - A C# implementation of the MetaWeblog API over a local jekyll install.
