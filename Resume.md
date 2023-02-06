@@ -53,13 +53,13 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 <div class="row">
   <div class="col">
     <ul>
+      <li>C# 11.0</li>
       <li>ASP.NET MVC</li>
       <li>Windows Forms</li>
       <li>RESTful APIs</li>
       <li>xUnit</li>
       <li>NuGet</li>
       <li>WPF</li>
-      <li>TDD</li>
     </ul>
   </div>
   <div class="col">
@@ -116,8 +116,6 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Velociraptor 
   - An internally released solution for creating 3D Velocity Volumes, including GIS projection, velocity interpretation, volume generation, and nearest neighbor gridding.
 - Experienced with custom Windows Forms Control development.
-
-### MS SQL Database Administrator
 - Fully indexed and properly normalized database solutions.
 - Knowledge and execution of advanced TSQL queries.
 - Troubleshot backup, restore, and indexing issues.
@@ -133,9 +131,11 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 
 ##### 2022 - 2/2023
 
-- Created a web accessible asp.net core webapi endpoint that communicated with internal servers to integrate SalesForce with DocLink.
-  - asp.net core mvc webapi
-- Created a Microsoft CRM SDK application which loaded legacy data from CRM and SharePoint to prepare for migration to SalesForce and DocLink.
-- Created a VPN aware console application to upload legacy CRM and SharePoint data to SalesForce and DocLink.
-- Used Okta and JWT Bearer authorization for multiple webapi projects.
-- Collaborated on React applications using react-admin and mui.
+- Introduced unit testing to an existing asp.net core webapi application with a React front end.
+- Created a custom ProtectedRoute component for a legacy version of React.
+- Created a secured, web accessible asp.net core webapi REST endpoint that communicated with internal servers to allow external cloud services to display documents serving multiple MIME types.
+- Tested endpoints using Postman.
+- Created a Microsoft CRM SDK application which loaded legacy data to prepare for migration to new cloud based services.
+- Created a VPN aware console application to upload legacy data.
+- Used Okta and JWT Bearer authorization for multiple projects.
+- Collaborated on React SPAs using react-admin, Entity Framework Core and mui.
