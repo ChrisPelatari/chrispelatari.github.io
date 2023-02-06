@@ -89,7 +89,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Manually tested ASP.NET Core Web API REST implementations using Postman.
 - Created an SDK application which downloaded legacy data to prepare for migration to new cloud based services.
 - Created a VPN aware console application to upload legacy data.
-- Used JWT Bearer authorization for multiple projects.
+- Utilized JWT Bearer authorization for multiple projects.
 
 <div class="card">
   <div class="card-body">
