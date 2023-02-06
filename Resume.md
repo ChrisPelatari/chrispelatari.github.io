@@ -45,8 +45,8 @@ categories: [professional_geek]
 To leverage my over 20 years of experience with the .NET framework providing elegant and efficient solutions for clients, while fostering a collaborative and productive work environment. Seeking a full stack developer role where my skills can be utilized to deliver software that is a joy to use.
 
 ## RECOGNITION
-- Microsoft MVP ASP.NET
-- ASPInsider [aspinsiders.com](https://aspinsiders.com)
+- [Microsoft MVP ASP.NET](https://mvp.microsoft.com) 2004-2007
+- [ASPInsider](https://aspinsiders.com) 2005 - Present
 
 ## CORE SKILLS
 
@@ -137,5 +137,5 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Tested endpoints using Postman.
 - Created a Microsoft CRM SDK application which downloaded legacy data to prepare for migration to new cloud based services.
 - Created a VPN aware console application to upload legacy data.
-- Used Okta and JWT Bearer authorization for multiple projects.
+- Used JWT Bearer authorization for multiple projects.
 - Collaborated on React SPAs using react-admin, Entity Framework Core and mui.
