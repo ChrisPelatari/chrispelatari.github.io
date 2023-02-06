@@ -122,8 +122,8 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Velociraptor 
   - An internally released solution for creating 3D Velocity Volumes, including GIS projection, velocity interpretation, volume generation, and nearest neighbor gridding.
 - Experienced with custom Windows Forms Control development.
-- Fully indexed and properly normalized database solutions.
+- Responsibile for fully indexed and properly normalized database solutions.
 - Knowledge and execution of advanced TSQL queries.
 - Troubleshot backup, restore, and indexing issues.
-- Server and cloud based experience.
+- Experienced with server and cloud based MS SQL.
 - Familiar with PostgreSQL and MySQL.
