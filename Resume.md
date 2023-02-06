@@ -23,12 +23,11 @@ categories: [professional_geek]
   <div class="col">
     <a href="tel:2816845688">(281) 684-5688 <i class="fas fa-phone"></i></a>
   </div>
+</div>
+<div class="row">
   <div class="col">
     <a href="https://goo.gl/maps/kBStcgycPRVgHfiv6">Houston, TX <i class="fas fa-map-marker-alt"></i></a>
   </div>
-</div>
-
-<div class="row">
   <div class="col">
     <a href="https://github.com/ChrisPelatari">GitHub <i class="fab fa-github"></i></a>
   </div>
