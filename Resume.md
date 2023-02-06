@@ -62,8 +62,10 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 ### WORK EXPERIENCE
 
 
-[Velocity Databank, Inc](https://www.velocitydatabank.com)
-<img src="assets/images/vdb.png" class="img-fluid" width="32px" />
+<h3>
+  <img src="assets/images/vdb.png" class="img-fluid" width="32px" />
+  <a href="https://www.velocitydatabank.com">Velocity Databank, Inc</a>
+</h3>
 
 #### .NET Solutions Developer
 
@@ -99,12 +101,17 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Familiar with PostgreSQL and MySQL.
 - Some knowledge of NoSQL.
 
-[Universal Weather and Aviation, Inc](https://www.universalweather.com/)
-<img src="assets/images/uwa.png" class="img-fluid" width="32px" />
-#### Senior .NET Integration Developer
-#####2022 - 2/2023
+<h3>
+  <img src="assets/images/uwa.png" class="img-fluid" width="32px" />
+  <a href="https://www.universalweather.com/">Universal Weather and Aviation, Inc </a>
+</h3>
 
- - Created a web accessible asp.net core webapi endpoint that communicated with internal servers to integrate SalesForce with DocLink.
+#### Senior .NET Integration Developer
+
+##### 2022 - 2/2023
+
+- Created a web accessible asp.net core webapi endpoint that communicated with internal servers to integrate SalesForce with DocLink.
+  - asp.net core mvc webapi
 - Created a Microsoft CRM SDK application which loaded legacy data from CRM and SharePoint to prepare for migration to SalesForce and DocLink.
 - Created a VPN aware console application to upload legacy CRM and SharePoint data to SalesForce and DocLink.
 - Used Okta and JWT Bearer authorization for multiple webapi projects.
