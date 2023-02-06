@@ -35,9 +35,6 @@ categories: [professional_geek]
   <div class="col">
     <a href="https://bluefenix.net">bluefenix.net <img src="assets/images/fenix.png" width="25px"/></a>
   </div>
-  <div class="col">
-    <a href="https://chris.pelatari.com/Resume">Resume <strong>.markdown</strong></a> 
-  </div>
 </div>
 
 ## CAREER OBJECTIVE
