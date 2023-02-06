@@ -102,7 +102,9 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - [Quicklook tools](https://www.velocitydatabank.com/quicklook) 
   - developed several SPA geological calculators using Vue.js and JavaScript charting libraries.
 - Experienced with Razor and custom view engine implementations.
+- Created visual assets with consistent branding across all solutions.
 - [VelSys](https://www.velocitydatabank.com/products/VelSys)
+  <img src="assets/images/velsyssplash.png" class="img-fluid" height="32px" />
   - designed, developed and maintained an online velocity survey database delivery system for clients such as [Anadarko Petroleum](https://en.wikipedia.org/wiki/Anadarko_Petroleum), [Occidental](https://www.oxy.com/about/), [Apache](https://www.apachecorp.com/), and [ExxonMobil](https://www.exxon.com/en). Multitenant and dedicated application which output custom GIS layers for each client. Incorporated a google maps interface.
 - Transitioned from an in-house web server to continuous integrated [AWS](https://aws.amazon.com/) cloud based hosting.
 - Transitioned from [AWS](https://aws.amazon.com/) cloud based hosting to [Azure](https://azure.microsoft.com/en-us/).
@@ -110,8 +112,10 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Experienced with [Ruby](https://www.ruby-lang.org/en/), some experience with [Ruby on Rails](https://rubyonrails.org/) and [Heroku](https://www.heroku.com/).
 - Developed several internal and external Windows Desktop applications for the Oil & Gas Exploration industry. 
 - [VelComp](https://www.velocitydatabank.com/Content/show/velcomp) 
+  <img src="assets/images/velcompsplash.png" class="img-fluid" height="32px" />
   - Collaborated with geophysicists to create a downhole seismic Checkshot Velocity interpretation platform.
 - [VDBx](https://www.velocitydatabank.com/VelCube) 
+  <img src="assets/images/vdbxsplash.png" class="img-fluid" height="32px" />
   - Collaborated with geoscientists to create a 3D Checkshot Velocity database extraction program which output surveys and 3D seismic profiles in several GIS workstation formats.
 - Velociraptor 
   - An internally released solution for creating 3D Velocity Volumes, including GIS projection, velocity interpretation, volume generation, and nearest neighbor gridding.
