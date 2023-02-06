@@ -137,9 +137,12 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 
 - Introduced unit testing to an existing asp.net core webapi application with a React front end.
 - Created a custom ProtectedRoute component for a legacy version of React.
-- Created a secured, web accessible asp.net core webapi REST endpoint that communicated with internal servers to allow external cloud services to display documents serving multiple MIME types.
-- Tested endpoints using Postman.
-- Created a Microsoft CRM SDK application which downloaded legacy data to prepare for migration to new cloud based services.
+- Created a fully unit tested and authenticated asp.net core webapi REST application that communicated with internal servers to allow external cloud services to securely display multiple MIME types.
+- Tested asp.net core webapi rest implementations using Postman.
+- Debugged file size limitations in IIS.
+- Created an SDK application which downloaded legacy data to prepare for migration to new cloud based services.
+- Overcame bandwidth limitations using batch processing logic.
 - Created a VPN aware console application to upload legacy data.
+- Included a fake local interface implementation to get proper upload counts without uploading data to the cloud.
 - Used JWT Bearer authorization for multiple projects.
-- Collaborated on React SPAs using react-admin, Entity Framework Core and mui.
+- Collaborated on a SPA using react-admin and mui.
