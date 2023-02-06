@@ -124,6 +124,6 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Experienced with custom Windows Forms Control development.
 - Responsibile for fully indexed and properly normalized database solutions.
 - Knowledge and execution of advanced TSQL queries.
-- Troubleshot backup, restore, and indexing issues.
+- Duties included troubleshooting backup, restore, and indexing issues.
 - Experienced with server and cloud based MS SQL.
 - Familiar with PostgreSQL and MySQL.
