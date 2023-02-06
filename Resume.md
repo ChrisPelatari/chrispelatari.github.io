@@ -135,7 +135,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Created a custom ProtectedRoute component for a legacy version of React.
 - Created a secured, web accessible asp.net core webapi REST endpoint that communicated with internal servers to allow external cloud services to display documents serving multiple MIME types.
 - Tested endpoints using Postman.
-- Created a Microsoft CRM SDK application which loaded legacy data to prepare for migration to new cloud based services.
+- Created a Microsoft CRM SDK application which downloaded legacy data to prepare for migration to new cloud based services.
 - Created a VPN aware console application to upload legacy data.
 - Used Okta and JWT Bearer authorization for multiple projects.
 - Collaborated on React SPAs using react-admin, Entity Framework Core and mui.
