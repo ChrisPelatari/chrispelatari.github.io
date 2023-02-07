@@ -109,7 +109,7 @@ To leverage my over 20 years of experience with the .NET framework providing ele
 - Incorporated a JavaScript Google Maps interface.
 - Included custom map tiles for all county boundaries in the Continental United States. 
 - Transitioned from an in-house web server to continuous integrated [AWS](https://aws.amazon.com/) cloud based hosting.
-- Migrated from [AWS](https://aws.amazon.com/) cloud based hosting to [Azure DevOs](https://azure.microsoft.com/en-us/).
+- Migrated from [AWS](https://aws.amazon.com/) cloud based hosting to [Azure DevOps](https://azure.microsoft.com/en-us/).
 - Experienced with [ASP.NET Core Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-7.0)
 - Experienced with [Ruby](https://www.ruby-lang.org/en/), some experience with [Ruby on Rails](https://rubyonrails.org/) and [Heroku](https://www.heroku.com/).
 - Developed several internal and external Windows Desktop applications for the Oil & Gas Exploration industry. 
