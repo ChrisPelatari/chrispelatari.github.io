@@ -18,6 +18,11 @@
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       <div class="container">
         <div class="row">
+          {% if site.mastodon_username %}
+          <div class="col-sm">
+            <a rel="me" href="https://{{site.mastodon_username}}"><i class="fab fa-mastodon"></i> Mastodon</a>
+          </div>
+        {% endif %} 
         {% if site.twitter_username %}
           <div class="col-sm">
             <a href="https://twitter.com/{{ site.twitter_username }}">
