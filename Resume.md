@@ -10,10 +10,10 @@ author: chrispelatari
   }
 </style>
 
-<h1 class="text-center border-bottom">Chris Pelatari</h1>
-<h3 class="text-center">Senior Full Stack .NET Web Developer</h3>
+<h3 class="text-center border-bottom">Chris Pelatari</h3>
+<h5 class="text-center">Senior Full Stack .NET Web Developer</h5>
 
-### CONTACT
+##### CONTACT
 
 <div class="row">
   <div class="col">
@@ -27,24 +27,26 @@ author: chrispelatari
   </div>
 </div>
 
-## CAREER OBJECTIVE
+##### CAREER OBJECTIVE
 
-To leverage my over 20 years of experience with the .NET framework providing elegant and efficient solutions for clients, while fostering a collaborative and productive work environment. Seeking a full stack developer role where my skills can be utilized to deliver software that is a joy to use.
+Seeking a full stack developer role where my skills can be utilized to deliver software that provides elegant and efficient solutions for clients.
 
-## RECOGNITION
+##### EDUCATION
+
+- [Houston Community College](https://www.hccs.edu/) - Computer Science Courses including C++, C#, Java, and JavaScript.
+- Proficient in utilizing the latest features of .NET Core and .NET 7.
+- Legacy experience with .NET Framework 1.0 - 4.8.
 - [Microsoft MVP ASP.NET](https://mvp.microsoft.com) 2004 - 2007
 - [ASPInsider](https://aspinsiders.com) 2005 - Present
 
-## CORE SKILLS
+##### CORE SKILLS
 
 <div class="row">
   <div class="col">
     <ul>
       <li>C# 11.0</li>
       <li>ASP.NET MVC</li>
-      <li>ASP.NET Core Web API</li>
       <li>Windows Forms</li>
-      <li>WPF</li>
       <li>Visual Studio</li>
       <li>xUnit</li>
     </ul>
@@ -52,21 +54,16 @@ To leverage my over 20 years of experience with the .NET framework providing ele
   <div class="col">
     <ul>
       <li>HTML5</li>
-      <li>Markdown</li>
       <li>CSS3</li>
-      <li>Bootstrap</li>
       <li>JavaScript</li>
       <li>Vue.js</li>
       <li>NodeJS</li>
-      <li>jQuery</li>
     </ul>
   </div>
   <div class="col">
     <ul>
       <li>MS SQL</li>
-      <li>SQLite</li>
       <li>Entity Framework Core</li>
-      <li>Dapper</li>
       <li>git</li>
       <li>AWS</li>
       <li>Azure DevOps</li>
@@ -74,27 +71,43 @@ To leverage my over 20 years of experience with the .NET framework providing ele
   </div>
 </div>
 
-### WORK EXPERIENCE
+##### NON-CORE SKILLS
+
+<div class="row">
+  <div class="col">
+    <ul>
+      <li>Fluent in English.</li>
+      <li>Basic Spanish and Portuguese.</li>
+    </ul>
+  </div>
+  <div class="col">
+    <ul>
+      <li>Oratory experience; National Forensics.</li>
+      <li>Member; International Thespian Society.</li>
+    </ul>
+  </div>
+</div>
+
+##### WORK EXPERIENCE
 
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title"><img src="assets/images/uwa.png" class="img-fluid" width="32px" /> Universal Weather and Aviation, Inc</h5>
-    <h6 class="card-subtitle mb-2 text-muted">Senior .NET Integration Developer 2022 - 2/2023</h6>
+    <h5 class="card-title"><img src="assets/images/uwa.png" class="img-fluid" width="32px" /> Universal Weather and Aviation - <span class="card-subtitle mb-2 text-muted text-right">Senior .NET Integration Developer 2022 - 2/2023</span></h5>
+    
   </div>
 </div>
 
 - Introduced unit testing to an existing ASP.NET Core Web API application with a React front end.
 - Created a custom ProtectedRoute component for a legacy version of React.
 - Created a fully unit tested and authenticated ASP.NET Core Web API REST application that communicated with internal servers to allow external cloud services to securely display multiple MIME types.
-- Manually tested ASP.NET Core Web API REST implementations using Postman.
+- Performed manual testing for ASP.NET Core Web API REST implementations using Postman.
 - Created an SDK application which downloaded legacy data to prepare for migration to new cloud based services.
 - Created a VPN aware console application to upload legacy data.
 - Utilized JWT Bearer authorization for multiple projects.
 
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title"><img src="assets/images/vdb.png" class="img-fluid" width="32px" /> Velocity Databank, Inc</h5>
-    <h6 class="card-subtitle mb-2 text-muted">.NET Solutions Developer 2001 - 2022</h6>
+    <h5 class="card-title"><img src="assets/images/vdb.png" class="img-fluid" width="32px" /> Velocity Databank - <span class="card-subtitle mb-2 text-muted text-right">.NET Solutions Developer 2001 - 2022</span></h5>
   </div>
 </div>
 
@@ -118,11 +131,10 @@ To leverage my over 20 years of experience with the .NET framework providing ele
   - Collaborated with geophysicists to create a downhole seismic Checkshot Velocity interpretation platform.
 - [VDBx](https://www.velocitydatabank.com/VelCube) 
   - Collaborated with geoscientists to create a 3D Checkshot Velocity database extraction program which output surveys and 3D seismic profiles in several GIS workstation formats.
-- Velociraptor 
-  - An internally released solution for creating 3D Velocity Volumes, including GIS projection, velocity interpretation, volume generation, and nearest neighbor gridding.
 - Experienced with custom Windows Forms Control development.
 - Responsibile for fully indexed and properly normalized database solutions.
 - Knowledge and execution of advanced TSQL queries.
 - Duties included troubleshooting backup, restore, and indexing issues.
 - Experienced with server and cloud based MS SQL.
-- Familiar with PostgreSQL and MySQL.
+- Experienced with SQLite.
+- Knowledge of basic development with PostgreSQL and MySQL databases.
