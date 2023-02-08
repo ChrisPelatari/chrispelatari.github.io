@@ -65,8 +65,8 @@ end
 
 # Create the file with the slug and open the default editor
 def create_file(directory, filename, content, title, editor)
-  FileUtils.mkdir(directory) unless File.exists?(directory)
-  if File.exists?("#{directory}/#{filename}")
+  FileUtils.mkdir(directory) unless File.exist?(directory)
+  if File.exist?("#{directory}/#{filename}")
     raise "The file already exists."
   else
     write_file(content, title, directory, filename)
