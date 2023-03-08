@@ -12,7 +12,7 @@ I've been looking for a way to update my skills in web development recently whil
 I wanted to build something from scratch, and I wanted to do it in a way that I could share with others. I also wanted to do it in a way that I could use to demonstrate my skills to potential employers. 
 
 So I decided to build a local development instance of [Mastodon](https://joinmastodon.org/); a free, open-source social network. I've been using Mastodon for a few months now, and I really like it. It currently feels like 2008-2010 Twitter, when it was still fun and interesting. 
-> And not run by a narcissicist.
+> And not run by Elon Musk.
 
 It was not an easy task, but I learned a lot along the way. I'm going to share my journey with you, and hopefully you'll find it useful.
 
