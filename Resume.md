@@ -71,23 +71,6 @@ Seeking a full stack developer role where my skills can be utilized to deliver s
   </div>
 </div>
 
-##### NON-CORE SKILLS
-
-<div class="row">
-  <div class="col">
-    <ul>
-      <li>Fluent in English.</li>
-      <li>Basic Spanish and Portuguese.</li>
-    </ul>
-  </div>
-  <div class="col">
-    <ul>
-      <li>Oratory experience; National Forensics.</li>
-      <li>Member; International Thespian Society.</li>
-    </ul>
-  </div>
-</div>
-
 ##### WORK EXPERIENCE
 
 <div class="card">
@@ -98,12 +81,10 @@ Seeking a full stack developer role where my skills can be utilized to deliver s
 </div>
 
 - Introduced unit testing to an existing ASP.NET Core Web API application with a React front end.
-- Created a custom ProtectedRoute component for a legacy version of React.
 - Created a fully unit tested and authenticated ASP.NET Core Web API REST application that communicated with internal servers to allow external cloud services to securely display multiple MIME types.
 - Performed manual testing for ASP.NET Core Web API REST implementations using Postman.
 - Created an SDK application which downloaded legacy data to prepare for migration to new cloud based services.
 - Created a VPN aware console application to upload legacy data.
-- Utilized JWT Bearer authorization for multiple projects.
 
 <div class="card">
   <div class="card-body">
@@ -111,30 +92,18 @@ Seeking a full stack developer role where my skills can be utilized to deliver s
   </div>
 </div>
 
-- Collaborated with designers, developed, released, and maintained full stack [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) MVC applications backed by MS SQL. Included role based SSO and a simple well log ordering system.
-- Converted legacy WebForms based applications to the [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet) framework.
-- [Quicklook tools](https://www.velocitydatabank.com/quicklook) 
-  - developed several SPA geological calculators using Vue.js and JavaScript charting libraries.
-- Experienced with Razor and custom view engine implementations.
+- Self-taught manager of one responsible for collaborating with designers, developing and testing, deploying, and maintaining full stack C# ASP.NET MVC applications backed by MS SQLServer. 
+- Evaluated current technology trends, deciding when and if legacy applications should be upgraded. 
+- Converted a WebForms based application to the ASP.NET MVC framework when v1.0 was released, upgrading going forward. 
 - Created visual assets with consistent branding across all solutions.
-- [VelSys](https://www.velocitydatabank.com/products/VelSys)
-  - designed, developed and maintained an online velocity survey database delivery system for clients such as [Anadarko Petroleum](https://en.wikipedia.org/wiki/Anadarko_Petroleum), [Occidental](https://www.oxy.com/about/), [Apache](https://www.apachecorp.com/), and [ExxonMobil](https://www.exxon.com/en). Multitenant and dedicated application which output custom GIS layers for each client. 
-- Incorporated a JavaScript Google Maps interface.
-- Included custom map tiles for all county boundaries in the Continental United States. 
-- Transitioned from an in-house web server to continuous integrated [AWS](https://aws.amazon.com/) cloud based hosting.
-- Migrated from [AWS](https://aws.amazon.com/) cloud based hosting to [Azure DevOps](https://azure.microsoft.com/en-us/).
-- Experienced with [ASP.NET Core Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-7.0)
-- Experienced with [Ruby](https://www.ruby-lang.org/en/), some experience with [Ruby on Rails](https://rubyonrails.org/) and [Heroku](https://www.heroku.com/).
-- Developed several internal and external Windows Desktop applications for the Oil & Gas Exploration industry. 
-- Incorporated open source license validation and API based license renewal for all Windows Forms applications. 
-- [VelComp](https://www.velocitydatabank.com/Content/show/velcomp) 
-  - Collaborated with geophysicists to create a downhole seismic Checkshot Velocity interpretation platform.
-- [VDBx](https://www.velocitydatabank.com/VelCube) 
-  - Collaborated with geoscientists to create a 3D Checkshot Velocity database extraction program which output surveys and 3D seismic profiles in several GIS workstation formats.
-- Experienced with custom Windows Forms Control development.
+- Designed, developed and maintained an online velocity survey database delivery system for clients such as Anadarko Petroleum, Occidental, Apache, and ExxonMobil. 
+- Transitioned from an in-house web server to a custom AWS  platform.
+- Made the business decision to migrate from AWS to Azure DevOps.
+- Keeping up with current technology trends, upgraded ASP.NET MVC REST APIs to ASP.NET Core Minimal APIs.
+- Evaluated other technology stacks, including Ruby on Rails and Kubernetes, deciding if thier features aligned with a small company's technology goals.
+- Developed several internal and external Windows Desktop applications. 
+- Created an ASCII database extraction program based on user stories from geoscientists.
 - Responsibile for fully indexed and properly normalized database solutions.
-- Knowledge and execution of advanced TSQL queries.
-- Duties included troubleshooting backup, restore, and indexing issues.
-- Experienced with server and cloud based MS SQL.
-- Experienced with SQLite.
-- Knowledge of basic development with PostgreSQL and MySQL databases.
+- Consistently excuted advanced TSQL queries.
+- Duties included troubleshooting database backup, restore, and indexing issues.
+- Experienced with MS SQLServer, SQLite, PostgreSQL and MySQL databases.
