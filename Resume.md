@@ -75,7 +75,7 @@ Seeking a full stack developer role where my skills can be utilized to deliver s
 
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title"><img src="assets/images/uwa.png" class="img-fluid" width="32px" /> Universal Weather and Aviation - <span class="card-subtitle mb-2 text-muted text-right">Senior .NET Integration Developer 2022 - 2/2023</span></h5>
+    <h5 class="card-title">Universal Weather and Aviation - <span class="card-subtitle mb-2 text-muted text-right">Senior .NET Integration Developer 2022 - 2/2023</span></h5>
     
   </div>
 </div>
@@ -88,7 +88,7 @@ Seeking a full stack developer role where my skills can be utilized to deliver s
 
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title"><img src="assets/images/vdb.png" class="img-fluid" width="32px" /> Velocity Databank - <span class="card-subtitle mb-2 text-muted text-right">.NET Solutions Developer 2001 - 2022</span></h5>
+    <h5 class="card-title">Velocity Databank - <span class="card-subtitle mb-2 text-muted text-right">.NET Solutions Developer 2001 - 2022</span></h5>
   </div>
 </div>
 
