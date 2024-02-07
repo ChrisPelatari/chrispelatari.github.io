@@ -23,7 +23,7 @@ author: chrispelatari
     <a href="https://github.com/ChrisPelatari">GitHub <i class="fab fa-github"></i></a>
   </div>
   <div class="col">
-    <a href="tel:2816845688">(346) 813-0671 <i class="fas fa-phone"></i></a>
+    <a href="tel:3468130671">(346) 813-0671 <i class="fas fa-phone"></i></a>
   </div>
 </div>
 
