@@ -3,6 +3,7 @@ title: "The Declaration of Snugland"
 layout: post
 author: chrispelatari
 categories: [piracy, snugs]
+---
 
 # 🏴‍☠️ The Declaration of Snugland 🏴‍☠️
 
@@ -31,5 +32,8 @@ We shall measure our prosperity not in gold doubloons, but in snuggles per squar
 *In witness whereof*, we raise our mugs of cocoa, our fuzzy socks, and our hearts full of warmth. Let it be known across the seven seas: Snugland is here to stay!
 By the power vested in us by the Great Blanket Fort in the Sky, we hereby declare Snugland an independent micro-nation. May our nights be cozy, our mornings lazy, and our dreams as soft as freshly laundered pajamas.
 Long live Snugland! 🌟🛌🌙
+
+![The Soveriegn Nation of Snugland](/assets/images/the_soveriegn_nation_of_snugland.jpeg "A black and white dog curled up with a person on a bed with patterned bedding, surrounded by pillows")
+
 
 (Original by [blue_fenix](https://hachyderm.io/@blue_fenix/111954702195089282) with the help of copilot)
