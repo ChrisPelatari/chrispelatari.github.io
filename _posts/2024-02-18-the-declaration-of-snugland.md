@@ -32,5 +32,4 @@ We shall measure our prosperity not in gold doubloons, but in snuggles per squar
 By the power vested in us by the Great Blanket Fort in the Sky, we hereby declare Snugland an independent micro-nation. May our nights be cozy, our mornings lazy, and our dreams as soft as freshly laundered pajamas.
 Long live Snugland! 🌟🛌🌙
 
-longer chatGPT version of [this](link)
-
+(Original by [blue_fenix](https://hachyderm.io/@blue_fenix/111954702195089282) with the help of copilot)
