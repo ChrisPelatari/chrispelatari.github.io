@@ -36,4 +36,4 @@ Long live Snugland! 🌟🛌🌙
 ![The Soveriegn Nation of Snugland](/assets/images/the_soveriegn_nation_of_snugland.jpeg "A black and white dog curled up with a person on a bed with patterned bedding, surrounded by pillows")
 
 
-(Original by [blue_fenix](https://hachyderm.io/@blue_fenix/111954702195089282) with the help of copilot)
+(Original by [blue_fenix](https://hachyderm.io/@blue_fenix/111954702195089282) with the help of [copilot](https://copilot.microsoft.com))
