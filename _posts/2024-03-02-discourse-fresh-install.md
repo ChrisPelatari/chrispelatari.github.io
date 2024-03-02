@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Discourse Fresh Install on Mac OS"
-date: 2024-03-02 12:00:00 -0000
+date: 2024-03-02 
 categories: discourse
 author: chrispelatari
 ---
@@ -18,11 +18,13 @@ You need to have the following installed:
 - Bundler
 - Node.js
 - Yarn
+- Mailhog
+- Sidekiq
 - ImageMagick
 
 This last one is not mentioned in the install instructions, but it is required. When running the ember app, it will fail if ImageMagick is not installed.
 
-```sh
+```zsh
 brew install imagemagick
 ```
 
@@ -34,7 +36,7 @@ brew install imagemagick
 
 For number 4, I have added a dev script that uses concurrently to run both the rails server and the ember server. This is not required, but it is convenient.
 
-```sh
+```json
 # package.json
 "scripts": {
   "dev": "concurrently \"bin/ember-cli server --environment=development\" \"RAILS_ENV=development bundle exec rails s\"",
@@ -47,7 +49,7 @@ For me, this is the way. I got Discourse running on my Mac OS, and it only took 
 
 Here's the command to run the dev script:
 
-```sh
+```zsh
 yarn dev
 ```
 
