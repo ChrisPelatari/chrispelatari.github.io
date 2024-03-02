@@ -52,3 +52,5 @@ Here's the command to run the dev script:
 ```sh
 yarn dev
 ```
+
+I still prefer to run mailhog and sidekiq in separate terminal windows. There's just too much log noise with more than what was added to the dev script IMO.
