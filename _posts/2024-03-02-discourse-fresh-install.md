@@ -9,7 +9,7 @@ author: chrispelatari
 # Discourse Fresh Install on Mac OS
 
 ## Introduction
-So, most of the install instructions are correct, but there are a few things that are not. I will go through the steps to install Discourse on Mac OS.
+So, most of the install instructions are correct, but there are a few extra steps I had to figure out. I will go through the steps to install Discourse on Mac OS.
 
 ## Prerequisites
 You need to have the following installed:
