@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 .vscode/settings.json
 **/.DS_Store
+.DS_Store
